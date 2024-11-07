@@ -5,9 +5,9 @@
 
 # 📚 E-Book Library Summary
 
-- **Total Books**: 154
-- **Total Folders**: 27
-- **Total Library Size**: 1.65 GB
+- **Total Books**: 162
+- **Total Folders**: 28
+- **Total Library Size**: 1.79 GB
 - **Book List**: The following is the directory structure of available books. You can click on each book to download it directly from GitHub.
     
 
@@ -192,6 +192,15 @@
 |   ├── <a href='General%20%26%20Linear%20Algebra/Discrete%20Mathematics.pdf'>Discrete Mathematics.pdf</a> - Size: 14.25 MB
 |   ├── <a href='General%20%26%20Linear%20Algebra/General%20Algebra.pdf'>General Algebra.pdf</a> - Size: 9.66 MB
 |   ├── <a href='General%20%26%20Linear%20Algebra/Howard%20Anton%2C%20Chris%20Rorres%20-%20Elementary%20Linear%20Algebra%20with%20Applications-Wiley%20%282005%29.pdf'>Howard Anton, Chris Rorres - Elementary Linear Algebra with Applications-Wiley (2005).pdf</a> - Size: 16.06 MB
+📂 Graphics
+|   ├── <a href='Graphics/12%20Game%20%26%20Graphics%20Programming%204%20iOS%20%26%20Android.pdf'>12 Game & Graphics Programming 4 iOS & Android.pdf</a> - Size: 10.99 MB
+|   ├── <a href='Graphics/13%20OpenGL%20Programming%208th%20Edition.pdf'>13 OpenGL Programming 8th Edition.pdf</a> - Size: 18.03 MB
+|   ├── <a href='Graphics/17%20Computer%20Graphics%20Programming%20Java.pdf'>17 Computer Graphics Programming Java.pdf</a> - Size: 7.18 MB
+|   ├── <a href='Graphics/AddisonWesley%20OpenGL%20SuperBible%204thEdition.pdf'>AddisonWesley OpenGL SuperBible 4thEdition.pdf</a> - Size: 15.11 MB
+|   ├── <a href='Graphics/AddisonWesley%20OpenGl%20ES%203.0%20ProgrammingGuide.pdf'>AddisonWesley OpenGl ES 3.0 ProgrammingGuide.pdf</a> - Size: 22.32 MB
+|   ├── <a href='Graphics/Maths%20%26%20Physics%204%20Game%20Programmers.chm'>Maths & Physics 4 Game Programmers.chm</a> - Size: 2.69 MB
+|   ├── <a href='Graphics/OpenGL%20ES%203.0%20Cookbook.pdf'>OpenGL ES 3.0 Cookbook.pdf</a> - Size: 45.47 MB
+|   ├── <a href='Graphics/OpenGL%20Insights.pdf'>OpenGL Insights.pdf</a> - Size: 15.43 MB
 </pre>
 
 <!-- FILE_STRUCTURE_END -->
