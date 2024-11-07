@@ -1,7 +1,7 @@
 import os
 import urllib.parse
 
-def generate_hierarchy(directory, base_url, indent="", ignore_git=True, ignore_files=None):
+def generate_hierarchy(directory, base_url, indent="", ignore_git=True, ignore_files=None, parent_path=""):
     """Recursively generate a hierarchy of files and folders for a given directory."""
     hierarchy = ""
     book_count = 0
@@ -20,12 +20,15 @@ def generate_hierarchy(directory, base_url, indent="", ignore_git=True, ignore_f
         item_path = os.path.join(directory, item)
         is_last_item = (index == len(items) - 1)
         
+        # Correct the relative path for the file URL
+        relative_path = os.path.join(parent_path, item)
+        
         if os.path.isdir(item_path):
             # Folder representation with tree structure
             folder_count += 1
             hierarchy += f"{indent}📂 {item}\n"
             sub_hierarchy, sub_book_count, sub_folder_count, sub_size = generate_hierarchy(
-                item_path, base_url, indent + ("    " if is_last_item else "|   "), ignore_git, ignore_files
+                item_path, base_url, indent + ("    " if is_last_item else "|   "), ignore_git, ignore_files, relative_path
             )
             hierarchy += sub_hierarchy
             book_count += sub_book_count
@@ -37,7 +40,7 @@ def generate_hierarchy(directory, base_url, indent="", ignore_git=True, ignore_f
             file_size = os.path.getsize(item_path)
             readable_size = f"{file_size / (1024 * 1024):.2f} MB"  # Size in MB
             total_size += file_size  # Add file size to total size
-            file_url = urllib.parse.quote(f"{base_url}{item}")  # Modify with your GitHub repo path
+            file_url = urllib.parse.quote(f"{base_url}{relative_path}")  # Corrected with relative path
             hierarchy += f"{indent}├── <a href='{file_url}'>{item}</a> - Size: {readable_size}\n"
     
     return hierarchy, book_count, folder_count, total_size
