@@ -37,7 +37,7 @@ def generate_hierarchy(directory, base_url, indent="", ignore_git=True, ignore_f
             file_size = os.path.getsize(item_path)
             readable_size = f"{file_size / (1024 * 1024):.2f} MB"  # Size in MB
             total_size += file_size  # Add file size to total size
-            file_url = urllib.parse.quote(f"https://github.com/yourusername/yourrepo/raw/main/{item}")  # Modify with your GitHub repo path
+            file_url = urllib.parse.quote(f"https://github.com/Abdalrahman-Alhamod/Books/raw/main/{item}")  # Modify with your GitHub repo path
             hierarchy += f"{indent}├── <a href='{file_url}'>{item}</a> - Size: {readable_size}\n"
     
     return hierarchy, book_count, folder_count, total_size
