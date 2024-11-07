@@ -5,9 +5,9 @@
 
 # 📚 E-Book Library Summary
 
-- **Total Books**: 505
-- **Total Folders**: 85
-- **Total Library Size**: 4.68 GB
+- **Total Books**: 527
+- **Total Folders**: 87
+- **Total Library Size**: 5.11 GB
 - **Book List**: The following is the directory structure of available books. You can click on each book to download it directly from GitHub.
     
 
@@ -214,6 +214,30 @@
 |   ├── <a href='Graphics/Maths%20%26%20Physics%204%20Game%20Programmers.chm'>Maths & Physics 4 Game Programmers.chm</a> - Size: 2.69 MB
 |   ├── <a href='Graphics/OpenGL%20ES%203.0%20Cookbook.pdf'>OpenGL ES 3.0 Cookbook.pdf</a> - Size: 45.47 MB
 |   ├── <a href='Graphics/OpenGL%20Insights.pdf'>OpenGL Insights.pdf</a> - Size: 15.43 MB
+📂 Hello World Magazine
+|   📂 Books
+|   |   ├── <a href='Hello%20World%20Magazine/Books/HelloWorld_The_Big_Book_of_Computing_Content.pdf'>HelloWorld_The_Big_Book_of_Computing_Content.pdf</a> - Size: 21.28 MB
+|   |   ├── <a href='Hello%20World%20Magazine/Books/Hello_World_The_Big_Book_of_Pedagogy.pdf'>Hello_World_The_Big_Book_of_Pedagogy.pdf</a> - Size: 31.06 MB
+|   ├── <a href='Hello%20World%20Magazine/HW7_Digital_Edition-LATEST.pdf'>HW7_Digital_Edition-LATEST.pdf</a> - Size: 10.93 MB
+|   ├── <a href='Hello%20World%20Magazine/HW_11-DIGITAL_%281%29.pdf'>HW_11-DIGITAL_(1).pdf</a> - Size: 20.47 MB
+|   ├── <a href='Hello%20World%20Magazine/HW_12_Digital_Edition3.pdf'>HW_12_Digital_Edition3.pdf</a> - Size: 20.22 MB
+|   ├── <a href='Hello%20World%20Magazine/HW_13_Digital_Edition_V3.pdf'>HW_13_Digital_Edition_V3.pdf</a> - Size: 17.04 MB
+|   ├── <a href='Hello%20World%20Magazine/HW__9_Digitaledition.pdf'>HW__9_Digitaledition.pdf</a> - Size: 16.39 MB
+|   ├── <a href='Hello%20World%20Magazine/Hello-World_16_Digital_Version.pdf'>Hello-World_16_Digital_Version.pdf</a> - Size: 29.34 MB
+|   ├── <a href='Hello%20World%20Magazine/HelloWorld01.pdf'>HelloWorld01.pdf</a> - Size: 24.09 MB
+|   ├── <a href='Hello%20World%20Magazine/HelloWorld02.pdf'>HelloWorld02.pdf</a> - Size: 16.50 MB
+|   ├── <a href='Hello%20World%20Magazine/HelloWorld03.pdf'>HelloWorld03.pdf</a> - Size: 14.53 MB
+|   ├── <a href='Hello%20World%20Magazine/HelloWorld04.pdf'>HelloWorld04.pdf</a> - Size: 13.04 MB
+|   ├── <a href='Hello%20World%20Magazine/HelloWorld05.pdf'>HelloWorld05.pdf</a> - Size: 14.28 MB
+|   ├── <a href='Hello%20World%20Magazine/HelloWorld06.pdf'>HelloWorld06.pdf</a> - Size: 21.75 MB
+|   ├── <a href='Hello%20World%20Magazine/HelloWorld17.pdf'>HelloWorld17.pdf</a> - Size: 18.49 MB
+|   ├── <a href='Hello%20World%20Magazine/HelloWorld18.pdf'>HelloWorld18.pdf</a> - Size: 32.64 MB
+|   ├── <a href='Hello%20World%20Magazine/HelloWorld19.pdf'>HelloWorld19.pdf</a> - Size: 37.92 MB
+|   ├── <a href='Hello%20World%20Magazine/HelloWorld20.pdf'>HelloWorld20.pdf</a> - Size: 8.18 MB
+|   ├── <a href='Hello%20World%20Magazine/HelloWorld_14_digital.pdf'>HelloWorld_14_digital.pdf</a> - Size: 17.32 MB
+|   ├── <a href='Hello%20World%20Magazine/HelloWorld_8.pdf'>HelloWorld_8.pdf</a> - Size: 15.98 MB
+|   ├── <a href='Hello%20World%20Magazine/Hello_World_15.pdf'>Hello_World_15.pdf</a> - Size: 25.21 MB
+|   ├── <a href='Hello%20World%20Magazine/Hello_World_Issue_10.pdf'>Hello_World_Issue_10.pdf</a> - Size: 14.41 MB
 📂 JQuery
 |   ├── <a href='JQuery/Mastering%20jQuery%20%282023%29.pdf'>Mastering jQuery (2023).pdf</a> - Size: 7.39 MB
 📂 Java
