@@ -29,6 +29,7 @@ def generate_hierarchy(directory, base_url, indent="", ignore_git=True, ignore_f
             )
             hierarchy += sub_hierarchy
             book_count += sub_book_count
+            folder_count += sub_folder_count
             total_size += sub_size  # Add subdirectory size to total size
         else:
             # File representation with clickable links and size
