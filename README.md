@@ -5,9 +5,9 @@
 
 # 📚 E-Book Library Summary
 
-- **Total Books**: 132
-- **Total Folders**: 24
-- **Total Library Size**: 1.29 GB
+- **Total Books**: 143
+- **Total Folders**: 25
+- **Total Library Size**: 1.48 GB
 - **Book List**: The following is the directory structure of available books. You can click on each book to download it directly from GitHub.
     
 
@@ -167,6 +167,18 @@
 |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/Electrical%20Circuites/%D9%85%D9%84%D8%AD%D9%82%202%20%D8%B9%D8%A7%D9%85%202022.pdf'>ملحق 2 عام 2022.pdf</a> - Size: 1.87 MB
 |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/Electrical%20Circuites/%D9%85%D9%84%D8%AD%D9%82%203%20%D8%B9%D8%A7%D9%85%202022.pdf'>ملحق 3 عام 2022.pdf</a> - Size: 2.02 MB
 |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/Electrical%20Circuites/%D9%85%D9%84%D8%AD%D9%82%204%20%D8%B9%D8%A7%D9%85%202022.pdf'>ملحق 4 عام 2022.pdf</a> - Size: 2.34 MB
+📂 English
+|   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/English/Engliah%20work%20book.pdf'>Engliah work book.pdf</a> - Size: 10.39 MB
+|   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/English/English%20Vocabulary%20in%20Use%20Advanced%20Book%20%40IELTS_Dr.pdf'>English Vocabulary in Use Advanced Book @IELTS_Dr.pdf</a> - Size: 6.78 MB
+|   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/English/English%20Vocabulary%20in%20Use%20Elementary%20%40IELTS_Dr.pdf'>English Vocabulary in Use Elementary @IELTS_Dr.pdf</a> - Size: 19.77 MB
+|   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/English/English%20Vocabulary%20in%20Use%20Upper-Intermediate%20%40IELTS_Dr.pdf'>English Vocabulary in Use Upper-Intermediate @IELTS_Dr.pdf</a> - Size: 24.70 MB
+|   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/English/English%20study%20book.pdf'>English study book.pdf</a> - Size: 20.57 MB
+|   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/English/English_Vocabulary_in_Use_Pre_Intermediate_and_Intermediate_Book.pdf'>English_Vocabulary_in_Use_Pre_Intermediate_and_Intermediate_Book.pdf</a> - Size: 26.67 MB
+|   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/English/a%D8%AD%D9%84%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A3%D9%86%D9%83%D9%84%D9%8A%D8%B2%D9%8A%20.pdf'>aحل كتاب الأنكليزي .pdf</a> - Size: 3.87 MB
+|   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/English/infotech_english_for_computer_users_4th_ed_student_221015_204929.pdf'>infotech_english_for_computer_users_4th_ed_student_221015_204929.pdf</a> - Size: 28.94 MB
+|   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/English/new-english-file-intermediate-students-bookpdf_compress.pdf'>new-english-file-intermediate-students-bookpdf_compress.pdf</a> - Size: 20.66 MB
+|   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/English/new-english-file-intermediate-workbookpdf_compress.pdf'>new-english-file-intermediate-workbookpdf_compress.pdf</a> - Size: 10.39 MB
+|   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/English/%D9%85%D8%B9%D8%AC%D9%85%20%D8%A7%D9%84%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9.pdf'>معجم المصطلحات التقنية.pdf</a> - Size: 20.44 MB
 </pre>
 
 <!-- FILE_STRUCTURE_END -->
