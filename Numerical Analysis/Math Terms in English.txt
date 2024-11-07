@@ -1,0 +1,657 @@
+بعض المفاهيم الرياضيات وترجمتها باللغة الإنجليزية
+Absolute Number = عدد مطلق
+Absolute Value = القيمة المطلقة
+Abstract Algebra = جبر مجرد
+Accuracy = دقة
+Addition = جمع
+Algebra = الجبر
+Algorithm = خوارزمية
+Amount = مقدار
+Analysis = تحليل
+Application =تطبيق
+Applied = تطبيقي
+Approximation = تقريب
+Arbitrary = اختياري
+Arithmetic = حساب
+Asymptotic = محاذي = مقارب
+Axis = محور
+----------------------------------------------------------
+B
+Backward Difference = الفروق الخلفية
+Basic = أساسي
+Binary = ثنائي
+Binomial = ثنائي الحد = ذات الحدين
+Bisect = ينصف
+Bir = رقم ثنائي
+Boundary = حدود
+Bounded = محدود
+Byte = بايت
+----------------------------------------------------------
+C
+Calculus = حسبان = التفاضل واالتكامل
+Call = استدعاء
+Center = مركز
+Center difference = فروق مركزية
+Characteristic = مميز
+Circumference = محيط
+Closed = مغلق
+Closed internal = مجال مغلق
+Code = شفرة = كود
+Coefficients= أمثال = معاملات
+Column = عمود
+Common = مشترك
+Commutative = تبديلي = إبدالي
+Comparison = مقارنة
+Complement = متمم
+Complex = عقدي = مركب
+Computation = حساب
+Computer = حاسب إلكتروني = حاسوب
+Computing Method = طرق حسابية
+Condition = شرط
+Constant = ثابت
+Continuity = استمرار = اتصال
+Convergent = متقارب
+Cross Product = الضرب الاتجاهي = الجداء التصالبي
+Cycle = دورة
+Cylinder = اسطوانة
+----------------------------------------------------------
+D
+Data = معطيات = معلومات
+Decimal = عشري
+Decimal system = نظام عشري
+Decreasing = متناقص
+Define = يعرف
+Definition = تعريف
+Derivative = مشتقة
+Determinate = معين = محدد
+Diagonal = قطر
+Diagram = مخطط = رسم تخطيطي
+Differences = فروق
+Differential = تفاضلي
+Differentiation =تفاضل
+Digit = رقم
+Digital Computer = حاسب رقمي
+Dimension = بعد
+Distribution = توزيع
+Divergent = متباعد
+Divided differences = فروق مقسمة
+Dot Product = الضرب العددي = الجداء النقطي
+----------------------------------------------------------
+E
+Eigenvalue = قيمة خاصة
+Eigenvector = متجه خاص
+Element = عنصر
+Elimination = حذف
+Ellipse = قطع ناقص = اهليج
+Equal = يساوي
+Equation = معادلة
+Equations System = نظام معادلات = نظمة معادلات
+Equt = متساوي الـ
+Error = خطأ
+Even = زوجي
+Expansion = نشر
+Exponential = أسي
+Extrapolation = استيفاء خارجي
+----------------------------------------------------------
+F
+Factor = عامل
+False = خطأ
+False position = الوضع الخاطئ
+Field = حقل
+Fine = دقيق
+Finite = منته
+Finite Diffrences = فروق منتهية
+Floating = عائم
+Flow = انسياب
+Formula = صيغة
+Function = دالة = اقتران = تابع = تطبيق
+Functional = تابعي = دالي
+Fundamental = أساسي
+----------------------------------------------------------
+G
+General term = حد عام
+Geometric = هندسي
+Global = شامل
+Grid = شبكة
+Group = زمرة
+----------------------------------------------------------
+H
+Half = نصف
+Homogeneous = متجانس
+Hypothesis = فرضية
+----------------------------------------------------------
+I
+Identity = متطابقة
+Identity Element = العنصر المحايد
+Illconditional = معتل الشرط
+Implicit =ضمني
+Impossible = مستحيل
+Induction = استقراء
+Inequality = متفاوتة =متباينة = متراجحة = لا متساوية
+Infinite = لا منته = لا نهائي
+Initial = ابتدائي
+Inner Product = الضرب الداخلي
+Integer = عدد صحيح
+Integral = تكامل
+Interpolation = استيفاء داخلي
+Interval = فترة
+Inverse = معكوس
+Iteration = تقريب متتالي
+----------------------------------------------------------
+J
+Jacobian = الجاكوبيان
+----------------------------------------------------------
+L
+Law = قانون
+Least-square = المربعات الصغرى
+Limit = نهاية = غاية
+Linear = خطي
+Linear Algebra = جبر خطي
+Locus =محل هندسي
+Logarithm = لوغاريتم
+Loop = حلقة
+----------------------------------------------------------
+M
+Main = رئيسي
+Map = تطبيق
+Matrix = مصفوفة
+Mean = وسط = متوسط
+Measure = قياس
+Memory = ذاكرة
+Mesh = شبكة
+Multi = متعدد
+Multiple = مضاعف
+----------------------------------------------------------
+N
+Necessary = لازم
+Negative = سالب
+Nested = متداخل
+Newton s –Formula = صيغة نيوتن
+Nonlinear = لا خطي
+Norm = معيار
+Number = عدد
+Numerical =عددي
+----------------------------------------------------------
+O
+Open = مفتوح
+Operator = مؤثر
+Order = مرتبة
+Origin = نقطة الأصل
+Orthogonal = متعامد
+----------------------------------------------------------
+P
+Pair = زوج
+Parabola = قطع مكافئ
+Parallel = متوازي
+Parameter = وسيط
+Partial = جزئي
+Plane = مستوى
+Point = نقطة
+Polynomial = حدودية = كثيرة حدود
+Propagation of error = الخطأ المتراكم
+----------------------------------------------------------
+Q
+Quadratic = تربيعي
+Quarter = ربع
+----------------------------------------------------------
+R
+Radius = نصف قطر
+Random = عشوائي
+Range = مدى
+Rate = معدل
+Ratio = نسبة
+Rectangle = مستطيل
+Recursive = مرتد = تكراري
+Reduced = مختزل
+Relative error = خطأ نسبي
+Relaxation = الاسترخاء = التخفيف
+Remaineder = الباقي
+Round off = التدوير = التقريب
+----------------------------------------------------------
+S
+Set = مجموعة
+Simpson s- formula = صيغة سيمبسون
+Solution = حل
+Substitution = تعويض
+----------------------------------------------------------
+T
+Table = جدول
+Test = اختبار
+Term = حد
+Trapezoidal rule = قاعدة شبه المنحرف
+----------------------------------------------------------
+U
+Unique = وحيد
+Unit = وحدة
+Upper bound =حد علوي
+----------------------------------------------------------
+V
+Value =قيمة
+Variable = متغير
+Vector = متجه
+----------------------------------------------------------
+W
+Width = عرض
+----------------------------------------------------------
+Z
+Zero = صفر
+Zero matrix = مصفوفة صفرية
+Logarithm - لوغاريتم
+Vertical - عمودي
+Horizontally - افقي
+Theorem - نظرية
+Graph - رسم
+Factors - قواسم
+Problems - مسائل
+Maximum value – قيمة عظمى
+Minimum value – قيمة صغرى
+Ap ply – طبق .. مثلاً ((طبق نظرية كذا على هذه المسألة))
+Divide – اقسم ((استخدم عملية القسمة))
+Determine – حدد أو قرر
+Replace – ضع شيء مكان شيء ..
+Inverse function – الدالة العكسية
+addition جَمْع
+subtraction طَرْح
+multiplication ضَرْب
+division قِسْمة
+to add يجمع أو يضيف
+to subtract أو to take away يطرح
+to multiply يضرب (عدداً بآخر)
+to divide يقسم (عدداً على آخر)
+to calculate حساب
+total المجموع أو الحاصل
+arithmetic حساب
+algebra جَبْر
+geometry هندسة
+calculus حساب التفاضل والتكامل
+statistics إحصائيات
+integer عدد صحيح
+even number عدد زوجي
+odd number عدد فردي
+prime number عدد أولي
+fraction كسر
+decimal عشري
+decimal point فاصلة عشرية
+percent بالمئة
+percentage نسبة مئوية
+theorem نظرية
+proof برهان
+problem مسألة
+solution حل
+formula صيغة
+equation معادلة
+graph رسم بياني
+axis محور
+average متوسط
+correlation ارتباط
+probability احتمال
+dimensions أبعاد
+area مساحة
+circumference محيط الدائرة
+diameter قطر
+radius نصف قطر الدائرة
+length طول
+height ارتفاع
+width عَرض
+perimeter محيط
+angle زاوية
+right angle زاوية قائمة
+line خط
+straight line خط مستقيم
+curve منحني
+parallel موازي
+tangent ظل الزاوية
+volume حجم
+أشكال
+circle دائرة
+triangle مثلث
+square مربع
+rectangle مستطيل
+pentagon مخمّس
+hexagon مسدّس
+octagon مثمن
+oval بيضوي
+star نجم
+polygon المضلع
+cone مخروط
+cube مكعب
+cylinder أسطوانة
+pyramid هرم
+sphere كرة
+قراءة العمليات
+plus إشارة الزائد
+minus إشارة الناقص
+times أو multiplied by ضرب أو جداء
+divided by مقسوما
+squared مربّع (عدد مضروب بنفسه)
+cubed مكعب
+square root جذر تربيعي
+equals يساويبعض المفاهيم الرياضيات وترجمتها باللغة الإنجليزية
+Absolute Number = عدد مطلق
+Absolute Value = القيمة المطلقة
+Abstract Algebra = جبر مجرد
+Accuracy = دقة
+Addition = جمع
+Algebra = الجبر
+Algorithm = خوارزمية
+Amount = مقدار
+Analysis = تحليل
+Application =تطبيق
+Applied = تطبيقي
+Approximation = تقريب
+Arbitrary = اختياري
+Arithmetic = حساب
+Asymptotic = محاذي = مقارب
+Axis = محور
+----------------------------------------------------------
+B
+Backward Difference = الفروق الخلفية
+Basic = أساسي
+Binary = ثنائي
+Binomial = ثنائي الحد = ذات الحدين
+Bisect = ينصف
+Bir = رقم ثنائي
+Boundary = حدود
+Bounded = محدود
+Byte = بايت
+----------------------------------------------------------
+C
+Calculus = حسبان = التفاضل واالتكامل
+Call = استدعاء
+Center = مركز
+Center difference = فروق مركزية
+Characteristic = مميز
+Circumference = محيط
+Closed = مغلق
+Closed internal = مجال مغلق
+Code = شفرة = كود
+Coefficients= أمثال = معاملات
+Column = عمود
+Common = مشترك
+Commutative = تبديلي = إبدالي
+Comparison = مقارنة
+Complement = متمم
+Complex = عقدي = مركب
+Computation = حساب
+Computer = حاسب إلكتروني = حاسوب
+Computing Method = طرق حسابية
+Condition = شرط
+Constant = ثابت
+Continuity = استمرار = اتصال
+Convergent = متقارب
+Cross Product = الضرب الاتجاهي = الجداء التصالبي
+Cycle = دورة
+Cylinder = اسطوانة
+----------------------------------------------------------
+D
+Data = معطيات = معلومات
+Decimal = عشري
+Decimal system = نظام عشري
+Decreasing = متناقص
+Define = يعرف
+Definition = تعريف
+Derivative = مشتقة
+Determinate = معين = محدد
+Diagonal = قطر
+Diagram = مخطط = رسم تخطيطي
+Differences = فروق
+Differential = تفاضلي
+Differentiation =تفاضل
+Digit = رقم
+Digital Computer = حاسب رقمي
+Dimension = بعد
+Distribution = توزيع
+Divergent = متباعد
+Divided differences = فروق مقسمة
+Dot Product = الضرب العددي = الجداء النقطي
+----------------------------------------------------------
+E
+Eigenvalue = قيمة خاصة
+Eigenvector = متجه خاص
+Element = عنصر
+Elimination = حذف
+Ellipse = قطع ناقص = اهليج
+Equal = يساوي
+Equation = معادلة
+Equations System = نظام معادلات = نظمة معادلات
+Equt = متساوي الـ
+Error = خطأ
+Even = زوجي
+Expansion = نشر
+Exponential = أسي
+Extrapolation = استيفاء خارجي
+----------------------------------------------------------
+F
+Factor = عامل
+False = خطأ
+False position = الوضع الخاطئ
+Field = حقل
+Fine = دقيق
+Finite = منته
+Finite Diffrences = فروق منتهية
+Floating = عائم
+Flow = انسياب
+Formula = صيغة
+Function = دالة = اقتران = تابع = تطبيق
+Functional = تابعي = دالي
+Fundamental = أساسي
+----------------------------------------------------------
+G
+General term = حد عام
+Geometric = هندسي
+Global = شامل
+Grid = شبكة
+Group = زمرة
+----------------------------------------------------------
+H
+Half = نصف
+Homogeneous = متجانس
+Hypothesis = فرضية
+----------------------------------------------------------
+I
+Identity = متطابقة
+Identity Element = العنصر المحايد
+Illconditional = معتل الشرط
+Implicit =ضمني
+Impossible = مستحيل
+Induction = استقراء
+Inequality = متفاوتة =متباينة = متراجحة = لا متساوية
+Infinite = لا منته = لا نهائي
+Initial = ابتدائي
+Inner Product = الضرب الداخلي
+Integer = عدد صحيح
+Integral = تكامل
+Interpolation = استيفاء داخلي
+Interval = فترة
+Inverse = معكوس
+Iteration = تقريب متتالي
+----------------------------------------------------------
+J
+Jacobian = الجاكوبيان
+----------------------------------------------------------
+L
+Law = قانون
+Least-square = المربعات الصغرى
+Limit = نهاية = غاية
+Linear = خطي
+Linear Algebra = جبر خطي
+Locus =محل هندسي
+Logarithm = لوغاريتم
+Loop = حلقة
+----------------------------------------------------------
+M
+Main = رئيسي
+Map = تطبيق
+Matrix = مصفوفة
+Mean = وسط = متوسط
+Measure = قياس
+Memory = ذاكرة
+Mesh = شبكة
+Multi = متعدد
+Multiple = مضاعف
+----------------------------------------------------------
+N
+Necessary = لازم
+Negative = سالب
+Nested = متداخل
+Newton s –Formula = صيغة نيوتن
+Nonlinear = لا خطي
+Norm = معيار
+Number = عدد
+Numerical =عددي
+----------------------------------------------------------
+O
+Open = مفتوح
+Operator = مؤثر
+Order = مرتبة
+Origin = نقطة الأصل
+Orthogonal = متعامد
+----------------------------------------------------------
+P
+Pair = زوج
+Parabola = قطع مكافئ
+Parallel = متوازي
+Parameter = وسيط
+Partial = جزئي
+Plane = مستوى
+Point = نقطة
+Polynomial = حدودية = كثيرة حدود
+Propagation of error = الخطأ المتراكم
+----------------------------------------------------------
+Q
+Quadratic = تربيعي
+Quarter = ربع
+----------------------------------------------------------
+R
+Radius = نصف قطر
+Random = عشوائي
+Range = مدى
+Rate = معدل
+Ratio = نسبة
+Rectangle = مستطيل
+Recursive = مرتد = تكراري
+Reduced = مختزل
+Relative error = خطأ نسبي
+Relaxation = الاسترخاء = التخفيف
+Remaineder = الباقي
+Round off = التدوير = التقريب
+----------------------------------------------------------
+S
+Set = مجموعة
+Simpson s- formula = صيغة سيمبسون
+Solution = حل
+Substitution = تعويض
+----------------------------------------------------------
+T
+Table = جدول
+Test = اختبار
+Term = حد
+Trapezoidal rule = قاعدة شبه المنحرف
+----------------------------------------------------------
+U
+Unique = وحيد
+Unit = وحدة
+Upper bound =حد علوي
+----------------------------------------------------------
+V
+Value =قيمة
+Variable = متغير
+Vector = متجه
+----------------------------------------------------------
+W
+Width = عرض
+----------------------------------------------------------
+Z
+Zero = صفر
+Zero matrix = مصفوفة صفرية
+Logarithm - لوغاريتم
+Vertical - عمودي
+Horizontally - افقي
+Theorem - نظرية
+Graph - رسم
+Factors - قواسم
+Problems - مسائل
+Maximum value – قيمة عظمى
+Minimum value – قيمة صغرى
+Ap ply – طبق .. مثلاً ((طبق نظرية كذا على هذه المسألة))
+Divide – اقسم ((استخدم عملية القسمة))
+Determine – حدد أو قرر
+Replace – ضع شيء مكان شيء ..
+Inverse function – الدالة العكسية
+addition جَمْع
+subtraction طَرْح
+multiplication ضَرْب
+division قِسْمة
+to add يجمع أو يضيف
+to subtract أو to take away يطرح
+to multiply يضرب (عدداً بآخر)
+to divide يقسم (عدداً على آخر)
+to calculate حساب
+total المجموع أو الحاصل
+arithmetic حساب
+algebra جَبْر
+geometry هندسة
+calculus حساب التفاضل والتكامل
+statistics إحصائيات
+integer عدد صحيح
+even number عدد زوجي
+odd number عدد فردي
+prime number عدد أولي
+fraction كسر
+decimal عشري
+decimal point فاصلة عشرية
+percent بالمئة
+percentage نسبة مئوية
+theorem نظرية
+proof برهان
+problem مسألة
+solution حل
+formula صيغة
+equation معادلة
+graph رسم بياني
+axis محور
+average متوسط
+correlation ارتباط
+probability احتمال
+dimensions أبعاد
+area مساحة
+circumference محيط الدائرة
+diameter قطر
+radius نصف قطر الدائرة
+length طول
+height ارتفاع
+width عَرض
+perimeter محيط
+angle زاوية
+right angle زاوية قائمة
+line خط
+straight line خط مستقيم
+curve منحني
+parallel موازي
+tangent ظل الزاوية
+volume حجم
+أشكال
+circle دائرة
+triangle مثلث
+square مربع
+rectangle مستطيل
+pentagon مخمّس
+hexagon مسدّس
+octagon مثمن
+oval بيضوي
+star نجم
+polygon المضلع
+cone مخروط
+cube مكعب
+cylinder أسطوانة
+pyramid هرم
+sphere كرة
+قراءة العمليات
+plus إشارة الزائد
+minus إشارة الناقص
+times أو multiplied by ضرب أو جداء
+divided by مقسوما
+squared مربّع (عدد مضروب بنفسه)
+cubed مكعب
+square root جذر تربيعي
+equal يساوي
