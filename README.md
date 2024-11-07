@@ -5,9 +5,9 @@
 
 # 📚 E-Book Library Summary
 
-- **Total Books**: 229
-- **Total Folders**: 45
-- **Total Library Size**: 2.40 GB
+- **Total Books**: 339
+- **Total Folders**: 58
+- **Total Library Size**: 3.25 GB
 - **Book List**: The following is the directory structure of available books. You can click on each book to download it directly from GitHub.
     
 
@@ -216,25 +216,70 @@
 |   ├── <a href='Graphics/OpenGL%20Insights.pdf'>OpenGL Insights.pdf</a> - Size: 15.43 MB
 📂 LINUX
 |   ├── <a href='LINUX/Advantages%20with%20Linux%20command%20line.pdf'>Advantages with Linux command line.pdf</a> - Size: 4.24 MB
+|   ├── <a href='LINUX/CompTIA_Linux-_XK0_005_Exam_Cram%2C_1st_edition_%40shadow_books_1.pdf'>CompTIA_Linux-_XK0_005_Exam_Cram,_1st_edition_@shadow_books_1.pdf</a> - Size: 33.16 MB
+|   ├── <a href='LINUX/How_Linux_Works_What_Every_Superuser_Should_Know_PDFDrive_.pdf'>How_Linux_Works_What_Every_Superuser_Should_Know_PDFDrive_.pdf</a> - Size: 4.41 MB
+|   📂 Kali
+|   |   ├── <a href='LINUX/Kali/4_5902191238378949518.pdf'>4_5902191238378949518.pdf</a> - Size: 47.73 MB
+|   |   ├── <a href='LINUX/Kali/Kali-Linux_4book%20%281%29.pdf'>Kali-Linux_4book (1).pdf</a> - Size: 3.46 MB
+|   |   ├── <a href='LINUX/Kali/Mastering%20Kali%20Linux%20for%20Adv.pdf'>Mastering Kali Linux for Adv.pdf</a> - Size: 22.21 MB
+|   ├── <a href='LINUX/Learn%20Linux%20Quickly.pdf'>Learn Linux Quickly.pdf</a> - Size: 6.92 MB
+|   ├── <a href='LINUX/Linux%20Administration%20Handbook%2C%202nd.pdf'>Linux Administration Handbook, 2nd.pdf</a> - Size: 10.74 MB
+|   ├── <a href='LINUX/Linux%20Essentials%20Mohamed%20Ewies.pdf'>Linux Essentials Mohamed Ewies.pdf</a> - Size: 2.61 MB
+|   ├── <a href='LINUX/Linux-Dictionary.pdf'>Linux-Dictionary.pdf</a> - Size: 8.22 MB
+|   ├── <a href='LINUX/Linux.Shell_.Scripting.Cookbook.pdf'>Linux.Shell_.Scripting.Cookbook.pdf</a> - Size: 3.07 MB
+|   ├── <a href='LINUX/LinuxBasicsForHackers.pdf'>LinuxBasicsForHackers.pdf</a> - Size: 7.57 MB
+|   ├── <a href='LINUX/Linux_commands_handbok.pdf'>Linux_commands_handbok.pdf</a> - Size: 14.08 MB
+|   📂 RedHat
+|   |   ├── <a href='LINUX/RedHat/Certification_Guide_Sander_van_Vugt_Red_Hat_RHCE_8_EX294_Cert_Guide.pdf'>Certification_Guide_Sander_van_Vugt_Red_Hat_RHCE_8_EX294_Cert_Guide.pdf</a> - Size: 17.87 MB
+|   |   ├── <a href='LINUX/RedHat/RHCSA_RHCE_Red_Hat_Linux_Certification_Study_Guide_Seventh_Edition.pdf'>RHCSA_RHCE_Red_Hat_Linux_Certification_Study_Guide_Seventh_Edition.pdf</a> - Size: 48.18 MB
+|   |   ├── <a href='LINUX/RedHat/Red_Hat_Enterprise_Linux-8-System_Design_Guide-en-US.pdf'>Red_Hat_Enterprise_Linux-8-System_Design_Guide-en-US.pdf</a> - Size: 8.26 MB
+|   |   ├── <a href='LINUX/RedHat/Red_Hat_Enterprise_Linux_8_Administration_Master_Linux_administration.pdf'>Red_Hat_Enterprise_Linux_8_Administration_Master_Linux_administration.pdf</a> - Size: 15.20 MB
 |   ├── <a href='LINUX/The_Linux_Command_Line-arabic-14.07.pdf'>The_Linux_Command_Line-arabic-14.07.pdf</a> - Size: 3.15 MB
+|   ├── <a href='LINUX/linux%20comptia%20%2B.pdf'>linux comptia +.pdf</a> - Size: 4.25 MB
 |   ├── <a href='LINUX/%D8%A3%D9%88%D8%A8%D9%86%D8%AA%D9%88%20%D8%A8%D8%A8%D8%B3%D8%A7%D8%B7%D8%A9.pdf'>أوبنتو ببساطة.pdf</a> - Size: 10.79 MB
 📂 MS Office
 |   ├── <a href='MS%20Office/Complete%20Microsoft%20Access%20Tutorial.pdf'>Complete Microsoft Access Tutorial.pdf</a> - Size: 2.02 MB
 |   ├── <a href='MS%20Office/Excel%2051%20Tips%20Ebook%20Final.pdf'>Excel 51 Tips Ebook Final.pdf</a> - Size: 3.13 MB
 📂 Machine Learning
 |   ├── <a href='Machine%20Learning/2017_Book_AnIntroductionToMachineLearnin.pdf'>2017_Book_AnIntroductionToMachineLearnin.pdf</a> - Size: 4.51 MB
+|   ├── <a href='Machine%20Learning/ML%20Handwritten%20Notes%20.pdf'>ML Handwritten Notes .pdf</a> - Size: 16.99 MB
+|   ├── <a href='Machine%20Learning/ML_cheatsheets.pdf'>ML_cheatsheets.pdf</a> - Size: 7.63 MB
+|   ├── <a href='Machine%20Learning/Machine%20Learning%20For%20Absolute%20Beginners%20%281%29.pdf'>Machine Learning For Absolute Beginners (1).pdf</a> - Size: 2.64 MB
+|   ├── <a href='Machine%20Learning/Machine_Learning_2_Books_in_1_An_Introduction_Math_Guide_for_Beginners.pdf'>Machine_Learning_2_Books_in_1_An_Introduction_Math_Guide_for_Beginners.pdf</a> - Size: 4.32 MB
+|   ├── <a href='Machine%20Learning/Understanding_ML_list.pdf'>Understanding_ML_list.pdf</a> - Size: 0.37 MB
+|   ├── <a href='Machine%20Learning/machinelearningAIDeep_resume.pdf'>machinelearningAIDeep_resume.pdf</a> - Size: 45.37 MB
+|   ├── <a href='Machine%20Learning/understanding-machine-learning-theory-algorithms.pdf'>understanding-machine-learning-theory-algorithms.pdf</a> - Size: 2.48 MB
 |   ├── <a href='Machine%20Learning/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D9%82%20%D8%B9%D9%86%20%D8%B7%D8%B1%D9%8A%D9%82%20%D8%A7%D9%84%D8%A7%D9%85%D8%AB%D9%84%D8%A9.pdf'>التعلم العميق عن طريق الامثلة.pdf</a> - Size: 17.57 MB
+|   ├── <a href='Machine%20Learning/%D8%AA%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%A2%D9%84%D8%A9_%D9%88%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA_%D8%AF_%D8%B9%D9%84%D8%A7%D8%A1_%D8%B7%D8%B9%D9%8A%D9%85%D8%A9.pdf'>تعلم_الآلة_وعلم_البيانات_د_علاء_طعيمة.pdf</a> - Size: 11.00 MB
 |   ├── <a href='Machine%20Learning/%D8%AA%D9%86%D9%82%D9%8A%D8%A8_%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA_%D9%88%D8%AA%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%A2%D9%84%D8%A9_%D8%A8%D8%AF%D9%88%D9%86_%D8%A8%D8%B1%D9%85%D8%AC%D8%A9_%D8%AF_%D8%B9%D9%84%D8%A7%D8%A1_%D8%B7%D8%B9%D9%8A%D9%85%D8%A9.pdf'>تنقيب_البيانات_وتعلم_الآلة_بدون_برمجة_د_علاء_طعيمة.pdf</a> - Size: 7.28 MB
 |   ├── <a href='Machine%20Learning/%D9%85%D8%AF%D8%AE%D9%84_%D8%A5%D9%84%D9%89_%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1_%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A_%D9%88%D8%AA%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%A2%D9%84%D8%A9.pdf'>مدخل_إلى_الذكاء_الاصطناعي_وتعلم_الآلة.pdf</a> - Size: 7.85 MB
 |   ├── <a href='Machine%20Learning/%D9%85%D8%B9%D8%AC%D9%85_%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%A2%D9%84%D9%8A_%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D9%82_%D9%88%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA_%D8%AF_%D8%B9%D9%84%D8%A7%D8%A1_%D8%B7%D8%B9%D9%8A%D9%85%D8%A9.pdf'>معجم_مصطلحات_التعلم_الآلي_والتعلم_العميق_وعلم_البيانات_د_علاء_طعيمة.pdf</a> - Size: 5.44 MB
 📂 Maintenance
 |   ├── <a href='Maintenance/Keyboard%20Shortcuts%20Windows.pdf'>Keyboard Shortcuts Windows.pdf</a> - Size: 0.25 MB
 |   ├── <a href='Maintenance/Lenovo%20Harware%20Maintenance%20Manual.pdf'>Lenovo Harware Maintenance Manual.pdf</a> - Size: 25.33 MB
+|   ├── <a href='Maintenance/Windows_11_Security_Book_1666444146%281%29.pdf'>Windows_11_Security_Book_1666444146(1).pdf</a> - Size: 1.82 MB
 |   ├── <a href='Maintenance/laptops_for_dummies.pdf'>laptops_for_dummies.pdf</a> - Size: 8.08 MB
 |   ├── <a href='Maintenance/%D8%A7%D9%84%D8%AC%D9%84%D8%B3%D8%A9%20%D8%A7%D9%84%D8%A7%D9%88%D9%84%D9%89.pdf'>الجلسة الاولى.pdf</a> - Size: 1.51 MB
 |   ├── <a href='Maintenance/%D9%85%D9%83%D8%AA%D8%A8%D8%A9%20%D9%86%D9%88%D8%B1%20%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9%20%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA%20%D8%A7%D9%84%D9%82%D8%B1%D8%B5%20%D8%A7%D9%84%D8%B5%D9%84%D8%A8.pdf'>مكتبة نور استعادة بيانات القرص الصلب.pdf</a> - Size: 0.31 MB
 |   ├── <a href='Maintenance/%D9%85%D9%83%D8%AA%D8%A8%D8%A9%20%D9%86%D9%88%D8%B1%20%D8%A7%D9%86%D8%B4%D8%A7%D8%A1%20%D9%82%D9%86%D8%A7%D8%A9%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8.pdf'>مكتبة نور انشاء قناة على اليوتيوب.pdf</a> - Size: 0.72 MB
+📂 Matlab
+|   ├── <a href='Matlab/%D8%A7%D9%84%D9%85%D8%A7%D8%AA%D9%84%D8%A7%D8%A8%20%D9%84%D9%84%D9%85%D9%87%D9%86%D8%AF%D8%B3%D9%8A%D9%86%20.pdf'>الماتلاب للمهندسين .pdf</a> - Size: 11.09 MB
+|   ├── <a href='Matlab/%D8%A7%D9%84%D9%85%D8%A7%D8%AA%D9%84%D8%A7%D8%A8.pdf'>الماتلاب.pdf</a> - Size: 8.83 MB
+|   ├── <a href='Matlab/%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D8%A7%D8%AA%D9%84%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AB%20%D9%84%D8%AC%D9%85%D9%8A%D8%B9%20%D8%A7%D9%84%D8%AA%D8%AE%D8%B5%D8%B5%D8%A7%D8%AA%20%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D9%8A%D8%A92023.pdf'>كتاب الماتلاب الحديث لجميع التخصصات الهندسية2023.pdf</a> - Size: 9.12 MB
+📂 Natural Languages Processing
+|   ├── <a href='Natural%20Languages%20Processing/Natural%20Language%20Processing%20in%20Action.pdf'>Natural Language Processing in Action.pdf</a> - Size: 17.43 MB
 📂 Networks
+|   ├── <a href='Networks/1.%20CCNA%20200-301%20Official%20Cert%20Guide.pdf'>1. CCNA 200-301 Official Cert Guide.pdf</a> - Size: 19.23 MB
+|   ├── <a href='Networks/2.%20CCNA%20200-301%20Official%20Cert%20Guide.pdf'>2. CCNA 200-301 Official Cert Guide.pdf</a> - Size: 10.01 MB
+|   ├── <a href='Networks/4_5807800737819789816.pdf'>4_5807800737819789816.pdf</a> - Size: 4.45 MB
+|   ├── <a href='Networks/CCNA%20COMMANDS.pdf'>CCNA COMMANDS.pdf</a> - Size: 0.89 MB
+|   ├── <a href='Networks/CCNA%20Practical%20Lab%203rd%20Edition%20.pdf'>CCNA Practical Lab 3rd Edition .pdf</a> - Size: 5.58 MB
+|   ├── <a href='Networks/CCNA%20Routing%20%D8%B4%D8%B1%D8%AD%20%D8%B9%D8%B1%D8%A8%D9%8A%20.pdf'>CCNA Routing شرح عربي .pdf</a> - Size: 3.81 MB
+|   ├── <a href='Networks/CCNA-Book-01.pdf'>CCNA-Book-01.pdf</a> - Size: 13.56 MB
+|   ├── <a href='Networks/CCNA-Book-02.pdf'>CCNA-Book-02.pdf</a> - Size: 13.96 MB
+|   ├── <a href='Networks/CCNA-Book-03.pdf'>CCNA-Book-03.pdf</a> - Size: 16.11 MB
+|   ├── <a href='Networks/CCNA-Lab-Guide.pdf'>CCNA-Lab-Guide.pdf</a> - Size: 4.61 MB
+|   ├── <a href='Networks/CiscoPress-31-Days-Before-your-CCNA-200-301-Exam.pdf'>CiscoPress-31-Days-Before-your-CCNA-200-301-Exam.pdf</a> - Size: 8.03 MB
 |   ├── <a href='Networks/CompTIA-Network-N10-007-Exam-Objectives.pdf'>CompTIA-Network-N10-007-Exam-Objectives.pdf</a> - Size: 0.18 MB
 |   ├── <a href='Networks/House%20Local%20Network%20TPLINK.pdf'>House Local Network TPLINK.pdf</a> - Size: 2.50 MB
 |   ├── <a href='Networks/Network-N10-007-Exam-Objectives.pdf'>Network-N10-007-Exam-Objectives.pdf</a> - Size: 0.17 MB
@@ -245,16 +290,32 @@
 |   ├── <a href='Networks/%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA%20%D8%A7%D9%84%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A%D8%A9%20%28CCNA%20wireless%29.pdf'>الشبكات اللاسلكية (CCNA wireless).pdf</a> - Size: 5.16 MB
 |   ├── <a href='Networks/%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA%20%D8%A7%D9%84%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A%D8%A9.pdf'>الشبكات اللاسلكية.pdf</a> - Size: 0.16 MB
 |   ├── <a href='Networks/%D8%AA%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA_%D9%85%D9%86_%D8%A7%D9%84%D8%B5%D9%81%D8%B1_%D8%AD%D8%AA%D9%89_%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81.pdf'>تعلم_الشبكات_من_الصفر_حتى_الاحتراف.pdf</a> - Size: 1.65 MB
+|   ├── <a href='Networks/%D9%83%D8%AA%D8%A7%D8%A8%20CCNA%20R%26S%20%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84%20%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A.pdf'>كتاب CCNA R&S الكامل بالعربي.pdf</a> - Size: 33.52 MB
+|   ├── <a href='Networks/%D9%85%D9%84%D8%AE%D8%B5%20%D9%88%D9%82%D8%B3%D9%85%20%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A%20ccna.pdf'>ملخص وقسم العملي ccna.pdf</a> - Size: 0.92 MB
 📂 Numerical Analysis
 |   ├── <a href='Numerical%20Analysis/Math%20Terms%20in%20English.txt'>Math Terms in English.txt</a> - Size: 0.02 MB
 |   ├── <a href='Numerical%20Analysis/Numerical-Analysis%20DAMASCUS%20UNIVERSITY.pdf'>Numerical-Analysis DAMASCUS UNIVERSITY.pdf</a> - Size: 41.82 MB
+📂 Operating Systems
+|   ├── <a href='Operating%20Systems/Modern.Operating.Systems.pdf'>Modern.Operating.Systems.pdf</a> - Size: 8.87 MB
+📂 Operations Research
+|   ├── <a href='Operations%20Research/Introduction%20to%20Operations%20Research%209th%20edition.pdf'>Introduction to Operations Research 9th edition.pdf</a> - Size: 18.19 MB
+|   ├── <a href='Operations%20Research/Operation%20Research%20P.Rama%20Murthy.pdf'>Operation Research P.Rama Murthy.pdf</a> - Size: 3.07 MB
+|   ├── <a href='Operations%20Research/Operations%20Research%20Apllications%20ans%20Algorithms.pdf'>Operations Research Apllications ans Algorithms.pdf</a> - Size: 8.50 MB
+|   ├── <a href='Operations%20Research/Operations-Research-An-Introduction-10th-Ed.-Hamdy-A-Taha.pdf'>Operations-Research-An-Introduction-10th-Ed.-Hamdy-A-Taha.pdf</a> - Size: 7.89 MB
+|   ├── <a href='Operations%20Research/%D8%B3%D9%84%D8%B3%D9%84%D8%A9%20%D8%B4%D9%88%D9%85%20%D9%81%D9%8A%20%D8%A8%D8%AD%D9%88%D8%AB%20%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA.pdf'>سلسلة شوم في بحوث العمليات.pdf</a> - Size: 56.09 MB
 📂 Physics
 |   ├── <a href='Physics/%D9%85%D9%8A%D9%83%D8%A7%D9%86%D9%8A%D9%83%20%D8%A7%D9%84%D9%86%D9%82%D8%B7%D8%A9%20%D8%A7%D9%84%D9%85%D8%A7%D8%AF%D9%8A%D8%A9.pdf'>ميكانيك النقطة المادية.pdf</a> - Size: 10.17 MB
 📂 PowerShell
 |   ├── <a href='PowerShell/PowerShellNotesForProfessionals.pdf'>PowerShellNotesForProfessionals.pdf</a> - Size: 1.72 MB
 📂 Probability and Statistics
+|   ├── <a href='Probability%20and%20Statistics/7.%20Statistics.pdf'>7. Statistics.pdf</a> - Size: 0.32 MB
+|   ├── <a href='Probability%20and%20Statistics/Advances_20in_20Business_20Statistics_2C_20Methods_20and_20Data_20Collection%281%29.pdf'>Advances_20in_20Business_20Statistics_2C_20Methods_20and_20Data_20Collection(1).pdf</a> - Size: 19.34 MB
 |   ├── <a href='Probability%20and%20Statistics/Head%20First%20Statistics.pdf'>Head First Statistics.pdf</a> - Size: 36.69 MB
+|   ├── <a href='Probability%20and%20Statistics/Peter_Bruce%2C_Andrew_Bruce%2C_Peter_Gedeck_Practical_Statistics_for.pdf'>Peter_Bruce,_Andrew_Bruce,_Peter_Gedeck_Practical_Statistics_for.pdf</a> - Size: 15.98 MB
 |   ├── <a href='Probability%20and%20Statistics/Probability_and_Statistics_for_Engineers_and_Scientists_9th_edition.pdf'>Probability_and_Statistics_for_Engineers_and_Scientists_9th_edition.pdf</a> - Size: 6.00 MB
+|   ├── <a href='Probability%20and%20Statistics/STATISTICS%20INTERVIEW%20%E2%97%BC%EF%B8%8F%20SERIES%20-2.pdf'>STATISTICS INTERVIEW ◼️ SERIES -2.pdf</a> - Size: 1.23 MB
+|   ├── <a href='Probability%20and%20Statistics/%D8%AA%D8%B1%D8%AC%D9%85%D8%A9_%D8%AC%D9%85%D9%8A%D8%B9_%D8%AF%D8%B1%D9%88%D8%B3_%D8%A7%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1_%D9%85%D8%B9_%D8%A7%D9%84%D8%B4%D8%B1%D8%AD.pdf'>ترجمة_جميع_دروس_الإحصاء_مع_الشرح.pdf</a> - Size: 3.79 MB
+|   ├── <a href='Probability%20and%20Statistics/%D9%85%D9%84%D8%AE%D8%B5_%D8%AC%D9%85%D9%8A%D8%B9_%D9%85%D8%AD%D8%A7%D8%B6%D8%B1%D8%A7%D8%AA_%D9%85%D8%A8%D8%A7%D8%AF%D8%A6_%D8%A7%D9%84%D8%A7%D8%AD%D8%B5%D8%A7%D8%A1_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%88%D9%84%D9%8A_%D8%A7%D9%84%D8%A3%D8%AD%D8%B5%D8%A8.pdf'>ملخص_جميع_محاضرات_مبادئ_الاحصاء_عبدالولي_الأحصب.pdf</a> - Size: 7.36 MB
 📂 Raspberry Pi
 |   ├── <a href='Raspberry%20Pi/Simply%20Raspberry%20Pi.pdf'>Simply Raspberry Pi.pdf</a> - Size: 16.44 MB
 📂 Relegion
@@ -270,21 +331,83 @@
 |   ├── <a href='Relegion/%D9%84%D8%A7%D9%86%D9%83%20%D8%A7%D9%84%D9%84%D9%87%20%D8%B1%D8%AD%D9%84%D8%A9%20%D8%A7%D9%84%D9%89%20%D8%A7%D9%84%D8%B3%D9%85%D8%A7%D8%A1%20%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9%D8%A9%202%20.pdf'>لانك الله رحلة الى السماء السابعة 2 .pdf</a> - Size: 3.57 MB
 📂 Risk Management
 |   ├── <a href='Risk%20Management/Risk%20Management%2018%20Arabic.pdf'>Risk Management 18 Arabic.pdf</a> - Size: 0.65 MB
+📂 RoadMaps
+|   ├── <a href='RoadMaps/AWS%202.jpg'>AWS 2.jpg</a> - Size: 0.53 MB
+|   ├── <a href='RoadMaps/AWS1.jpg'>AWS1.jpg</a> - Size: 0.50 MB
+|   ├── <a href='RoadMaps/Android%20Developer%20Roadmap_.jpg'>Android Developer Roadmap_.jpg</a> - Size: 0.36 MB
+|   ├── <a href='RoadMaps/Android%20Developer_.jpg'>Android Developer_.jpg</a> - Size: 0.50 MB
+|   ├── <a href='RoadMaps/Artificial%20Intelligence%20Engineer_.jpg'>Artificial Intelligence Engineer_.jpg</a> - Size: 0.43 MB
+|   ├── <a href='RoadMaps/C%2B%2B.jpg'>C++.jpg</a> - Size: 0.37 MB
+|   ├── <a href='RoadMaps/Cyber%20Security%201.jpg'>Cyber Security 1.jpg</a> - Size: 0.41 MB
+|   ├── <a href='RoadMaps/Cyber%20Security%202.jpg'>Cyber Security 2.jpg</a> - Size: 0.34 MB
+|   ├── <a href='RoadMaps/Cyber%20Security%203.jpg'>Cyber Security 3.jpg</a> - Size: 0.25 MB
+|   ├── <a href='RoadMaps/Data%20Analyst_.jpg'>Data Analyst_.jpg</a> - Size: 0.55 MB
+|   ├── <a href='RoadMaps/Data%20Engineer.jpg'>Data Engineer.jpg</a> - Size: 0.37 MB
+|   ├── <a href='RoadMaps/Data%20Science_.jpg'>Data Science_.jpg</a> - Size: 0.39 MB
+|   ├── <a href='RoadMaps/Deep%20Learning_.jpg'>Deep Learning_.jpg</a> - Size: 0.41 MB
+|   ├── <a href='RoadMaps/DevOps_.jpg'>DevOps_.jpg</a> - Size: 0.49 MB
+|   ├── <a href='RoadMaps/Front%20End%20Developer_.jpg'>Front End Developer_.jpg</a> - Size: 0.28 MB
+|   ├── <a href='RoadMaps/Full%20Stack%20Developer_.jpg'>Full Stack Developer_.jpg</a> - Size: 0.42 MB
+|   ├── <a href='RoadMaps/Full%20stack%20Developer.jpg'>Full stack Developer.jpg</a> - Size: 0.40 MB
+|   ├── <a href='RoadMaps/Java%201.jpg'>Java 1.jpg</a> - Size: 0.37 MB
+|   ├── <a href='RoadMaps/JavaScript_.jpg'>JavaScript_.jpg</a> - Size: 0.84 MB
+|   ├── <a href='RoadMaps/Java_.jpg'>Java_.jpg</a> - Size: 0.33 MB
+|   ├── <a href='RoadMaps/Machine%20Learning%20Engineer_.jpg'>Machine Learning Engineer_.jpg</a> - Size: 0.36 MB
+|   ├── <a href='RoadMaps/Native%20IOS_.jpg'>Native IOS_.jpg</a> - Size: 0.23 MB
+|   ├── <a href='RoadMaps/PHP.jpg'>PHP.jpg</a> - Size: 0.26 MB
+|   ├── <a href='RoadMaps/Python%20%26%20Machine%20Learning_.jpg'>Python & Machine Learning_.jpg</a> - Size: 0.54 MB
+|   ├── <a href='RoadMaps/Python%20Beginner_.jpg'>Python Beginner_.jpg</a> - Size: 0.34 MB
+|   ├── <a href='RoadMaps/Python%20ML%20Roadmap.pdf'>Python ML Roadmap.pdf</a> - Size: 0.78 MB
+|   ├── <a href='RoadMaps/Python_.jpg'>Python_.jpg</a> - Size: 0.52 MB
+|   ├── <a href='RoadMaps/Statistics_.jpg'>Statistics_.jpg</a> - Size: 0.39 MB
+|   ├── <a href='RoadMaps/Web%20Developer_.jpg'>Web Developer_.jpg</a> - Size: 0.25 MB
+|   ├── <a href='RoadMaps/ai-data-scientist.pdf'>ai-data-scientist.pdf</a> - Size: 0.07 MB
+|   ├── <a href='RoadMaps/backend.pdf'>backend.pdf</a> - Size: 0.14 MB
+|   ├── <a href='RoadMaps/blockchain.pdf'>blockchain.pdf</a> - Size: 0.11 MB
+|   ├── <a href='RoadMaps/computer-science.pdf'>computer-science.pdf</a> - Size: 0.15 MB
+|   ├── <a href='RoadMaps/flutter.pdf'>flutter.pdf</a> - Size: 0.09 MB
+|   ├── <a href='RoadMaps/frontend.pdf'>frontend.pdf</a> - Size: 0.13 MB
+|   ├── <a href='RoadMaps/ux-design.pdf'>ux-design.pdf</a> - Size: 0.08 MB
 📂 Software Engineering
 |   ├── <a href='Software%20Engineering/RPL_7th_ed_software_engineering_a_practitioners_approach_by_roger.pdf'>RPL_7th_ed_software_engineering_a_practitioners_approach_by_roger.pdf</a> - Size: 20.05 MB
 |   ├── <a href='Software%20Engineering/Software%20Engineering%2C%2010th%20Edition%20by%20Ian%20Sommerville.pdf'>Software Engineering, 10th Edition by Ian Sommerville.pdf</a> - Size: 11.44 MB
 |   ├── <a href='Software%20Engineering/UML%202%20%26%20the%20Unified%20Process%20Pra%20-%20Jim%20Arlow.pdf'>UML 2 & the Unified Process Pra - Jim Arlow.pdf</a> - Size: 9.43 MB
 |   ├── <a href='Software%20Engineering/%D8%A3%D8%AD%D8%AF%D8%AB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%20%D9%81%D9%89%20%D9%87%D9%86%D9%86%D8%AF%D8%B3%D8%A9%20%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AB%D8%A9_Software_Engineering.pdf'>أحدث كتاب باللغة العربية فى هنندسة البرمجيات الحديثة_Software_Engineering.pdf</a> - Size: 4.63 MB
 |   ├── <a href='Software%20Engineering/%D8%AF%D9%84%D9%8A%D9%84%20%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D8%A9%20%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9%20%D8%A7%D9%84%D9%85%D8%B5%D8%AF%D8%B1%20%20.pdf'>دليل البرمجيات الحرة مفتوحة المصدر  .pdf</a> - Size: 4.02 MB
+📂 UI UX
+|   ├── <a href='UI%20UX/50_UX_Best_Practices.pdf'>50_UX_Best_Practices.pdf</a> - Size: 20.21 MB
+|   ├── <a href='UI%20UX/%40_RealFaisal.pdf'>@_RealFaisal.pdf</a> - Size: 5.01 MB
+|   ├── <a href='UI%20UX/Bright_Ideas_for_UX_Designers.pdf'>Bright_Ideas_for_UX_Designers.pdf</a> - Size: 7.05 MB
+|   ├── <a href='UI%20UX/Intro-to-UX-Arabic-v1.0.pdf'>Intro-to-UX-Arabic-v1.0.pdf</a> - Size: 6.47 MB
+|   ├── <a href='UI%20UX/Noor-Book.com%20%20%D8%A8%D8%B1%D9%85%D8%AC%D8%A9%20%D9%88%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D9%88%D8%A7%D8%AC%D9%87%D8%A9%20%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85.pdf'>Noor-Book.com  برمجة وتصميم واجهة المستخدم.pdf</a> - Size: 0.39 MB
+|   ├── <a href='UI%20UX/ux-design-for-startups-marcin-treder.pdf'>ux-design-for-startups-marcin-treder.pdf</a> - Size: 6.73 MB
+|   ├── <a href='UI%20UX/uxpin_designing_better_uxwith_ui_patterns.pdf'>uxpin_designing_better_uxwith_ui_patterns.pdf</a> - Size: 6.76 MB
+|   ├── <a href='UI%20UX/uxpin_guide_to_uxdesign_process_and_documentation.pdf'>uxpin_guide_to_uxdesign_process_and_documentation.pdf</a> - Size: 5.65 MB
+|   ├── <a href='UI%20UX/uxpin_how_to_launch_your_ux_career_and_get_paid.pdf'>uxpin_how_to_launch_your_ux_career_and_get_paid.pdf</a> - Size: 2.74 MB
+|   ├── <a href='UI%20UX/uxpin_the_elements_of_successful_ux_design.pdf'>uxpin_the_elements_of_successful_ux_design.pdf</a> - Size: 10.57 MB
+|   ├── <a href='UI%20UX/uxpin_thriving_as_an_independent_web_designer.pdf'>uxpin_thriving_as_an_independent_web_designer.pdf</a> - Size: 7.84 MB
+|   ├── <a href='UI%20UX/uxpin_ux_design_process_best_practices.pdf'>uxpin_ux_design_process_best_practices.pdf</a> - Size: 12.47 MB
+📂 Unity
+|   ├── <a href='Unity/Unity%20Development%20Cookbook%20%282023%29.pdf'>Unity Development Cookbook (2023).pdf</a> - Size: 22.87 MB
+📂 VS Code
+|   ├── <a href='VS%20Code/VS%20Code.pdf'>VS Code.pdf</a> - Size: 11.81 MB
 📂 Visual Studio
 |   ├── <a href='Visual%20Studio/Visual%20Studio%20Tutorial.pdf'>Visual Studio Tutorial.pdf</a> - Size: 2.25 MB
 |   ├── <a href='Visual%20Studio/VisualStudioCode%20Tips%26Tricks%20Vol.1.pdf'>VisualStudioCode Tips&Tricks Vol.1.pdf</a> - Size: 1.49 MB
 📂 Web
 |   ├── <a href='Web/0800-html-css-bootstrap-javascript-and-jquery.pdf'>0800-html-css-bootstrap-javascript-and-jquery.pdf</a> - Size: 0.64 MB
+|   ├── <a href='Web/500%20Free%20Resources%20for%20Web%20Development.pdf'>500 Free Resources for Web Development.pdf</a> - Size: 3.15 MB
 |   ├── <a href='Web/HTML%20CSS%20and%20JavaScript%20Web%20Publishing%20in%20One%20Hour%20a%20Day%20Sams%20Teach%20Yoursel%207th%20Edition.pdf'>HTML CSS and JavaScript Web Publishing in One Hour a Day Sams Teach Yoursel 7th Edition.pdf</a> - Size: 35.54 MB
+|   ├── <a href='Web/My%20First%20Website%20for%20Students%20%282023%29.pdf'>My First Website for Students (2023).pdf</a> - Size: 9.63 MB
 |   ├── <a href='Web/Webbook.pdf'>Webbook.pdf</a> - Size: 12.95 MB
+|   ├── <a href='Web/Websites_Design_Book_%281%29.pdf'>Websites_Design_Book_(1).pdf</a> - Size: 24.07 MB
 |   ├── <a href='Web/ps_web.pdf'>ps_web.pdf</a> - Size: 5.23 MB
 |   ├── <a href='Web/web_for_beginnerss.pdf'>web_for_beginnerss.pdf</a> - Size: 4.28 MB
+📂 Work & Interviews
+|   📂 Interview Questions and Answers
+|   |   📂 Data Analysis
+|   |       ├── <a href='Work%20%26%20Interviews/Interview%20Questions%20and%20Answers/Data%20Analysis/Data%20Analyst%20Interview%20Questions%20%F0%9F%92%A1.pdf'>Data Analyst Interview Questions 💡.pdf</a> - Size: 2.76 MB
+|   ├── <a href='Work%20%26%20Interviews/%D8%A7%D9%84%D8%A8%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%20%D8%8C%20%D8%A2%D9%84%D9%83%D8%B3%20%D8%A8%D8%A7%D9%86%D8%A7%D9%8A%D8%A7%D9%86.pdf'>الباب الثالث ، آلكس بانايان.pdf</a> - Size: 4.63 MB
 </pre>
 
 <!-- FILE_STRUCTURE_END -->
