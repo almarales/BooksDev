@@ -6,7 +6,7 @@
 # 📚 E-Book Library Summary
 
 - **Total Books**: 105
-- **Total Folders**: 16
+- **Total Folders**: 19
 - **Total Library Size**: 956.64 MB
 - **Book List**: The following is the directory structure of available books. You can click on each book to download it directly from GitHub.
     
