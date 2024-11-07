@@ -5,8 +5,8 @@
 
 # 📚 E-Book Library Summary
 
-- **Total Books**: 113
-- **Total Folders**: 26
+- **Total Books**: 118
+- **Total Folders**: 27
 - **Book List**: The following is the directory structure of available books. You can click on each book to download it directly from GitHub.
     
 
@@ -84,6 +84,7 @@
 📂 Calculus
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/Thomas%20Calculus%2014th%20Edition%20PDF.pdf'>Thomas Calculus 14th Edition PDF.pdf</a> - Size: 27.00 MB
 📂 ChatGPT
+|   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/50%20Awesome%20ChatGPT%20Prompts%20%F0%9F%A4%AF.pdf'>50 Awesome ChatGPT Prompts 🤯.pdf</a> - Size: 4.95 MB
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/80%20Ways%20to%20Use%20ChatGPT%20in%20the%20Classroom.pdf'>80 Ways to Use ChatGPT in the Classroom.pdf</a> - Size: 1.58 MB
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/ChatGPT%20%D8%AF%D9%84%D9%8A%D9%84.pdf'>ChatGPT دليل.pdf</a> - Size: 6.12 MB
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/The%20Art%20of%20Asking%20ChatGPT%20for%20High_Quality%20Answers.pdf'>The Art of Asking ChatGPT for High_Quality Answers.pdf</a> - Size: 0.53 MB
@@ -96,7 +97,12 @@
 📂 Communication Skills
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/Communication%20Skilles%20Reference.pdf'>Communication Skilles Reference.pdf</a> - Size: 0.70 MB
 📂 Compilers
+|   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/Compilers%20-%20Principles%2C%20Techniques%2C%20and%20Tools%20%282006%29.pdf'>Compilers - Principles, Techniques, and Tools (2006).pdf</a> - Size: 5.78 MB
+|   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/Compilers%20Principles%20Techniques%20and%20Tools%20%282nd%20Edition%29%20.pdf'>Compilers Principles Techniques and Tools (2nd Edition) .pdf</a> - Size: 12.26 MB
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/The%20Definitive%20ANTLR%204%20Reference.pdf'>The Definitive ANTLR 4 Reference.pdf</a> - Size: 6.26 MB
+📂 Computer Graphics
+|   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/Computer%20Graphics%20C%20Version%20by%20Donald%20Hearn%20%26%20M%20Pauline%20Baker%20II%20Edition.pdf'>Computer Graphics C Version by Donald Hearn & M Pauline Baker II Edition.pdf</a> - Size: 20.16 MB
+|   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/Fundamentals%20of%20Computer%20Graphics%20%283rd%20Edition%29%20.pdf'>Fundamentals of Computer Graphics (3rd Edition) .pdf</a> - Size: 22.59 MB
 📂 Computer Organization and Architecture
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/Computer.Organization.and.Design.5th.Edition.pdf'>Computer.Organization.and.Design.5th.Edition.pdf</a> - Size: 33.91 MB
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/Computer.Organization.and.Design.The.Hardware.Software.Interface.3rd.Ed.2004.pdf'>Computer.Organization.and.Design.The.Hardware.Software.Interface.3rd.Ed.2004.pdf</a> - Size: 50.05 MB
