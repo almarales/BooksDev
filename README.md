@@ -5,9 +5,9 @@
 
 # 📚 E-Book Library Summary
 
-- **Total Books**: 435
-- **Total Folders**: 78
-- **Total Library Size**: 4.05 GB
+- **Total Books**: 505
+- **Total Folders**: 85
+- **Total Library Size**: 4.68 GB
 - **Book List**: The following is the directory structure of available books. You can click on each book to download it directly from GitHub.
     
 
@@ -214,6 +214,32 @@
 |   ├── <a href='Graphics/Maths%20%26%20Physics%204%20Game%20Programmers.chm'>Maths & Physics 4 Game Programmers.chm</a> - Size: 2.69 MB
 |   ├── <a href='Graphics/OpenGL%20ES%203.0%20Cookbook.pdf'>OpenGL ES 3.0 Cookbook.pdf</a> - Size: 45.47 MB
 |   ├── <a href='Graphics/OpenGL%20Insights.pdf'>OpenGL Insights.pdf</a> - Size: 15.43 MB
+📂 JQuery
+|   ├── <a href='JQuery/Mastering%20jQuery%20%282023%29.pdf'>Mastering jQuery (2023).pdf</a> - Size: 7.39 MB
+📂 Java
+|   ├── <a href='Java/Java%20Interview%20Questions%20With%20Answer.pdf'>Java Interview Questions With Answer.pdf</a> - Size: 18.63 MB
+|   ├── <a href='Java/Java%20Programming%20Cheatsheet.pdf'>Java Programming Cheatsheet.pdf</a> - Size: 7.89 MB
+|   ├── <a href='Java/Java%20Programming%E2%9C%A8.pdf'>Java Programming✨.pdf</a> - Size: 2.33 MB
+|   ├── <a href='Java/Quick%20Java.pdf'>Quick Java.pdf</a> - Size: 8.19 MB
+|   ├── <a href='Java/java_in_24_hours.pdf'>java_in_24_hours.pdf</a> - Size: 5.52 MB
+|   ├── <a href='Java/%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9_%D8%A8%D9%84%D8%BA%D8%A9_%D8%AC%D8%A7%D9%81%D8%A7_%D8%A3%D8%AD%D9%85%D8%AF_%D8%AC%D8%A8%D8%B1.pdf'>أساسيات_البرمجة_بلغة_جافا_أحمد_جبر.pdf</a> - Size: 6.13 MB
+|   ├── <a href='Java/%D9%85%D9%83%D8%AA%D8%A8%D8%A9%20%D9%86%D9%88%D8%B1%20Java%20in%2010%20Days.pdf'>مكتبة نور Java in 10 Days.pdf</a> - Size: 6.95 MB
+|   ├── <a href='Java/%D9%85%D9%83%D8%AA%D8%A8%D8%A9%20%D9%86%D9%88%D8%B1%20%D8%A3%D9%85%D8%AB%D9%84%D8%A9%20%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%8A%D8%A9%20%D9%84%D9%85%D9%83%D8%AA%D8%B3%D8%A8%D8%A7%D8%AA%20%D8%AF%D9%88%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AC%D8%A7%D9%81%D8%A7.pdf'>مكتبة نور أمثلة تطبيقية لمكتسبات دورات الجافا.pdf</a> - Size: 0.27 MB
+|   ├── <a href='Java/%D9%85%D9%83%D8%AA%D8%A8%D8%A9%20%D9%86%D9%88%D8%B1%20%D8%AA%D8%B9%D9%84%D9%85%20%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%AC%D8%A7%D9%81%D8%A7%20%D8%A8%D8%A8%D8%B3%D8%A7%D8%B7%D8%A9.pdf'>مكتبة نور تعلم لغة الجافا ببساطة.pdf</a> - Size: 1.77 MB
+|   ├── <a href='Java/%D9%85%D9%83%D8%AA%D8%A8%D8%A9%20%D9%86%D9%88%D8%B1%20%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%AC%D8%A7%D9%81%D8%A7%202%20%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%20%D9%85%D8%AD%D8%B1%D8%B1%20net%20beans.pdf'>مكتبة نور لغة الجافا 2 باستخدام محرر net beans.pdf</a> - Size: 8.38 MB
+|   ├── <a href='Java/%D9%85%D9%83%D8%AA%D8%A8%D8%A9%20%D9%86%D9%88%D8%B1%20%D9%85%D9%82%D8%AF%D9%85%D8%A9%20%D8%A5%D9%84%D9%89%20%D8%A8%D8%B1%D9%85%D8%AC%D8%A9%20%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D9%8A%D8%A9%20%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%20%D8%AA%D9%82%D9%86%D9%8A%D8%A9%20java%20RMI.pdf'>مكتبة نور مقدمة إلى برمجة التطبيقات الشبكية باستخدام تقنية java RMI.pdf</a> - Size: 1.01 MB
+📂 JavaScript
+|   ├── <a href='JavaScript/JavaScript%20Cheat%20Sheet.pdf'>JavaScript Cheat Sheet.pdf</a> - Size: 0.25 MB
+|   ├── <a href='JavaScript/JavaScript%20Visual%20Studio.pdf'>JavaScript Visual Studio.pdf</a> - Size: 7.43 MB
+|   ├── <a href='JavaScript/JavaScriptNotesForProfessionals.pdf'>JavaScriptNotesForProfessionals.pdf</a> - Size: 4.09 MB
+|   ├── <a href='JavaScript/javascript_eng.zip'>javascript_eng.zip</a> - Size: 5.87 MB
+📂 Kotlin
+|   ├── <a href='Kotlin/Gouline-KotlinPragmaticLanguageAndroid.pdf'>Gouline-KotlinPragmaticLanguageAndroid.pdf</a> - Size: 0.92 MB
+|   ├── <a href='Kotlin/Kotlin_for_Android_Developers_learn_Kotlin_the_easy_way_while_developing.pdf'>Kotlin_for_Android_Developers_learn_Kotlin_the_easy_way_while_developing.pdf</a> - Size: 1.12 MB
+|   ├── <a href='Kotlin/Kotlin_in_Action.pdf'>Kotlin_in_Action.pdf</a> - Size: 9.11 MB
+|   ├── <a href='Kotlin/arabic_kotlin.pdf'>arabic_kotlin.pdf</a> - Size: 1.34 MB
+|   ├── <a href='Kotlin/%D8%A3%D8%AA%D9%82%D9%86%20%D9%84%D8%BA%D8%A9%20%D9%83%D9%88%D8%AA%D9%84%D9%86%20.pdf'>أتقن لغة كوتلن .pdf</a> - Size: 4.74 MB
+|   ├── <a href='Kotlin/%D9%85%D8%AE%D8%AA%D8%B5%D8%B1%20%D9%84%D8%BA%D8%A9%20Kotlin%20%D8%A7%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%AC%D8%B9%D9%8A%D8%AF.pdf'>مختصر لغة Kotlin احمد الجعيد.pdf</a> - Size: 3.42 MB
 📂 LEGO Mindstorm EV3
 |   ├── <a href='LEGO%20Mindstorm%20EV3/LMSUser_Guide_LEGO_MINDSTORMS_EV3_11_Tablet_ENUS.pdf'>LMSUser_Guide_LEGO_MINDSTORMS_EV3_11_Tablet_ENUS.pdf</a> - Size: 5.24 MB
 |   ├── <a href='LEGO%20Mindstorm%20EV3/Learning%20LEGO%20Mindstorms%20EV3%20-Gary%20Garber%20%20_%20build%20and%20create%20interactive%2C%20sensor-based%20robots%20using%20your%20LEGO%20Mindstorms%20EV3%20kit%20%282015%29.pdf'>Learning LEGO Mindstorms EV3 -Gary Garber  _ build and create interactive, sensor-based robots using your LEGO Mindstorms EV3 kit (2015).pdf</a> - Size: 11.54 MB
@@ -311,6 +337,24 @@
 |   ├── <a href='Operations%20Research/Operations%20Research%20Apllications%20ans%20Algorithms.pdf'>Operations Research Apllications ans Algorithms.pdf</a> - Size: 8.50 MB
 |   ├── <a href='Operations%20Research/Operations-Research-An-Introduction-10th-Ed.-Hamdy-A-Taha.pdf'>Operations-Research-An-Introduction-10th-Ed.-Hamdy-A-Taha.pdf</a> - Size: 7.89 MB
 |   ├── <a href='Operations%20Research/%D8%B3%D9%84%D8%B3%D9%84%D8%A9%20%D8%B4%D9%88%D9%85%20%D9%81%D9%8A%20%D8%A8%D8%AD%D9%88%D8%AB%20%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA.pdf'>سلسلة شوم في بحوث العمليات.pdf</a> - Size: 56.09 MB
+📂 PHP
+|   ├── <a href='PHP/5_6224499186432216491.pdf'>5_6224499186432216491.pdf</a> - Size: 2.79 MB
+|   ├── <a href='PHP/Head%20First%20PHP%20Mysql.pdf'>Head First PHP Mysql.pdf</a> - Size: 66.34 MB
+|   ├── <a href='PHP/Learning_PHP%2C_MySQL%2C_JavaScript%2C_CSS_HTML5%2C_Third_Edition_A_Step.pdf'>Learning_PHP,_MySQL,_JavaScript,_CSS_HTML5,_Third_Edition_A_Step.pdf</a> - Size: 31.43 MB
+|   ├── <a href='PHP/PHP%20%26%20MYSQL.pdf'>PHP & MYSQL.pdf</a> - Size: 3.43 MB
+|   ├── <a href='PHP/PHP%20%D8%A7%D9%84%D9%85%D8%AF%D8%AE%D9%84%20%D8%A5%D9%84%D9%89%20%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%20%281%29.pdf'>PHP المدخل إلى لغة ال (1).pdf</a> - Size: 2.27 MB
+|   ├── <a href='PHP/PHP%20%D8%AA%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9%20%D8%A8%D9%84%D8%BA%D8%A9.pdf'>PHP تعلم البرمجة بلغة.pdf</a> - Size: 2.77 MB
+|   ├── <a href='PHP/PHPNotesForProfessionals.pdf'>PHPNotesForProfessionals.pdf</a> - Size: 3.48 MB
+|   ├── <a href='PHP/PHP_for_Absolute_Beginners_2nd_Edition_P.pdf'>PHP_for_Absolute_Beginners_2nd_Edition_P.pdf</a> - Size: 3.52 MB
+|   ├── <a href='PHP/learn_php_8_using_mysql_javascript_css3_and_html5_2nd_ed_9781484262399.pdf'>learn_php_8_using_mysql_javascript_css3_and_html5_2nd_ed_9781484262399.pdf</a> - Size: 5.63 MB
+|   ├── <a href='PHP/php%20and%20mysql%20web%20dev.pdf'>php and mysql web dev.pdf</a> - Size: 7.06 MB
+|   ├── <a href='PHP/php-8-absolute-beginners-3rd.pdf'>php-8-absolute-beginners-3rd.pdf</a> - Size: 6.99 MB
+|   ├── <a href='PHP/the-joy-of-php-alan-forbes_compress%20%28arabic%29.pdf'>the-joy-of-php-alan-forbes_compress (arabic).pdf</a> - Size: 14.37 MB
+|   ├── <a href='PHP/the-joy-of-php-alan-forbes_compress.pdf'>the-joy-of-php-alan-forbes_compress.pdf</a> - Size: 7.92 MB
+|   ├── <a href='PHP/%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9%20%D8%A8%D9%84%D8%BA%D8%A9%20php.pdf'>البرمجة بلغة php.pdf</a> - Size: 9.01 MB
+|   ├── <a href='PHP/%D8%AF%D9%88%D8%B1%D8%A9%20%D9%85%D8%AA%D9%82%D8%AF%D9%85%D8%A9%20%D9%81%D9%8A%20%D9%84%D8%BA%D8%A9%20PHP%203%20%281%29.pdf'>دورة متقدمة في لغة PHP 3 (1).pdf</a> - Size: 8.51 MB
+|   ├── <a href='PHP/%D9%83%D8%AA%D8%A7%D8%A8_%D9%84%D8%BA%D8%A9_php_%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84_%D8%AA%D8%B7%D9%88%D9%8A%D8%B1_%D8%B5%D9%81%D8%AD%D8%A7%D8%AA_%D8%A7%D9%84%D9%88%D9%8A%D8%A8_%D9%88%D8%A8%D8%B1%D9%85%D8%AC%D8%A9_%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B1%D9%86%D8%AA_.pdf'>كتاب_لغة_php_الشامل_تطوير_صفحات_الويب_وبرمجة_الانترنت_.pdf</a> - Size: 5.53 MB
+|   ├── <a href='PHP/%D9%85%D9%83%D8%AA%D8%A8%D8%A9%20%D9%86%D9%88%D8%B1%20%D8%A3%D9%86%D8%B4%D8%A6%20%D9%85%D9%88%D9%82%D8%B9%20php%20%D9%85%D9%86%20%D8%A7%D9%84%D8%B5%D9%81%D8%B1.pdf'>مكتبة نور أنشئ موقع php من الصفر.pdf</a> - Size: 0.32 MB
 📂 Physics
 |   ├── <a href='Physics/%D9%85%D9%8A%D9%83%D8%A7%D9%86%D9%8A%D9%83%20%D8%A7%D9%84%D9%86%D9%82%D8%B7%D8%A9%20%D8%A7%D9%84%D9%85%D8%A7%D8%AF%D9%8A%D8%A9.pdf'>ميكانيك النقطة المادية.pdf</a> - Size: 10.17 MB
 📂 PowerShell
@@ -432,8 +476,42 @@
 |   |   ├── <a href='Programing%20Languages/React.js/fullstack-react-30-days-of-react-2017.pdf'>fullstack-react-30-days-of-react-2017.pdf</a> - Size: 30.81 MB
 |   ├── <a href='Programing%20Languages/clean_code.pdf'>clean_code.pdf</a> - Size: 4.06 MB
 |   ├── <a href='Programing%20Languages/mokhtasar_dalil.pdf'>mokhtasar_dalil.pdf</a> - Size: 2.38 MB
+📂 Python
+|   ├── <a href='Python/240%2B%20Python%20Practice%20Exercises%20.pdf'>240+ Python Practice Exercises .pdf</a> - Size: 5.85 MB
+|   ├── <a href='Python/4BreastCancerDetectionandclassificationUsingArtificialNeuralNetworks4.pdf'>4BreastCancerDetectionandclassificationUsingArtificialNeuralNetworks4.pdf</a> - Size: 0.57 MB
+|   ├── <a href='Python/%40datascienceM%20Mastering%20Python%20for%20Artificial%20Intelligence.pdf'>@datascienceM Mastering Python for Artificial Intelligence.pdf</a> - Size: 4.14 MB
+|   ├── <a href='Python/Beginning%20Python.pdf'>Beginning Python.pdf</a> - Size: 5.55 MB
+|   ├── <a href='Python/Coding%20Projects%20in%20Python.pdf'>Coding Projects in Python.pdf</a> - Size: 21.87 MB
+|   ├── <a href='Python/Coffee%20Breat%20Python%20PDF.pdf'>Coffee Breat Python PDF.pdf</a> - Size: 2.36 MB
+|   ├── <a href='Python/Learning%20Python%203rdEdition.pdf'>Learning Python 3rdEdition.pdf</a> - Size: 4.08 MB
+|   ├── <a href='Python/Learning%20Python%205thEditon%20U3.3%262.7.pdf'>Learning Python 5thEditon U3.3&2.7.pdf</a> - Size: 14.39 MB
+|   ├── <a href='Python/Noor-Book.com%20%20%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9%20%D8%A8%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86%20pink%20python.pdf'>Noor-Book.com  البرمجة بلغة البايثون pink python.pdf</a> - Size: 18.92 MB
+|   ├── <a href='Python/Noor-Book.com%20%20%D9%85%D9%83%D8%AA%D8%A8%D8%A9%20numpy.pdf'>Noor-Book.com  مكتبة numpy.pdf</a> - Size: 33.43 MB
+|   ├── <a href='Python/Python%20For%20Dummies.pdf'>Python For Dummies.pdf</a> - Size: 10.78 MB
+|   ├── <a href='Python/Python%20Functions%20for%20Data%20Science.pdf'>Python Functions for Data Science.pdf</a> - Size: 5.52 MB
+|   ├── <a href='Python/Python%20GUI%20Programming%20Cookbook.pdf'>Python GUI Programming Cookbook.pdf</a> - Size: 9.15 MB
+|   ├── <a href='Python/Python%20Machine%20Learning%20Cookbook.pdf'>Python Machine Learning Cookbook.pdf</a> - Size: 22.21 MB
+|   ├── <a href='Python/Python%20NotesForProfessionals.pdf'>Python NotesForProfessionals.pdf</a> - Size: 5.93 MB
+|   ├── <a href='Python/Python%20TutorialPoint.pdf'>Python TutorialPoint.pdf</a> - Size: 4.96 MB
+|   ├── <a href='Python/Python%20Ultimate%20Guide.pdf'>Python Ultimate Guide.pdf</a> - Size: 0.80 MB
+|   ├── <a href='Python/genes-11-00888.pdf'>genes-11-00888.pdf</a> - Size: 3.06 MB
+|   ├── <a href='Python/%D8%A7%D8%AA%D8%B9%D9%84%D9%85%20%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86.pdf'>اتعلم بايثون.pdf</a> - Size: 0.62 MB
+|   ├── <a href='Python/%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86%20%D9%84%D9%84%D8%AC%D9%85%D9%8A%D8%B9.pdf'>بايثون للجميع.pdf</a> - Size: 4.51 MB
+|   ├── <a href='Python/%D8%AA%D8%AD%D9%85%D9%8A%D9%84%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86%20%D8%B9%D9%86%20%D8%B7%D8%B1%D9%8A%D9%82%20%D8%A7%D9%84%D8%A7%D9%85%D8%AB%D9%84%D8%A9%2090%20%D9%85%D8%B4%D8%B1%D9%88%D8%B9%20%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86%20%D9%85%D8%B9%20%D8%A7%D9%84%D9%83%D9%88%D8%AF%20%D8%A7%D9%84%D9%85%D8%B5%D8%AF%D8%B1%D9%8A%20%D8%AA%D9%85%20%D8%AD%D9%84%D9%87%D8%A7%20%D9%88%D8%B4%D8%B1%D8%AD%D9%87%D8%A7.pdf'>تحميل كتاب بايثون عن طريق الامثلة 90 مشروع بايثون مع الكود المصدري تم حلها وشرحها.pdf</a> - Size: 4.78 MB
+|   ├── <a href='Python/%D8%AA%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9%20%D9%85%D8%B9%20%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86%203.pdf'>تعلم البرمجة مع بايثون 3.pdf</a> - Size: 14.72 MB
+|   ├── <a href='Python/%D9%81%D9%83%D8%B1%20%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86%20%28%D9%83%D9%8A%D9%81%20%D8%AA%D9%81%D9%83%D8%B1%20%D9%83%D8%B9%D8%A7%D9%84%D9%85%20%D8%AD%D8%A7%D8%B3%D9%88%D8%A8%29.pdf'>فكر بايثون (كيف تفكر كعالم حاسوب).pdf</a> - Size: 3.10 MB
+|   ├── <a href='Python/%F0%9D%97%9F%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%BB%20%F0%9D%97%A3%F0%9D%98%86%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%BC%F0%9D%97%BB%20%F0%9D%97%9C%F0%9D%97%BB%20%F0%9D%97%94%20%F0%9D%97%AA%F0%9D%97%B2%F0%9D%97%B2%F0%9D%97%B8%E2%9C%85%C2%A0.pdf'>𝗟𝗲𝗮𝗿𝗻 𝗣𝘆𝘁𝗵𝗼𝗻 𝗜𝗻 𝗔 𝗪𝗲𝗲𝗸✅ .pdf</a> - Size: 2.64 MB
+|   ├── <a href='Python/%F0%9D%97%A3%F0%9D%97%AC%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%A2%F0%9D%97%A1%20%F0%9D%97%A7%F0%9D%97%A5%F0%9D%97%9C%F0%9D%97%96%F0%9D%97%9E%F0%9D%97%A6%20%F0%9F%90%8D.pdf'>𝗣𝗬𝗧𝗛𝗢𝗡 𝗧𝗥𝗜𝗖𝗞𝗦 🐍.pdf</a> - Size: 1.27 MB
+📂 R
+|   ├── <a href='R/%D9%83%D8%AA%D8%A7%D8%A8%20%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A6%D9%8A%D8%A9%20R.pdf'>كتاب لغة البرمجة الإحصائية R.pdf</a> - Size: 4.53 MB
 📂 Raspberry Pi
 |   ├── <a href='Raspberry%20Pi/Simply%20Raspberry%20Pi.pdf'>Simply Raspberry Pi.pdf</a> - Size: 16.44 MB
+📂 React.js
+|   ├── <a href='React.js/How%20To%20Code%20in%20React.js.pdf'>How To Code in React.js.pdf</a> - Size: 19.67 MB
+|   ├── <a href='React.js/React%20Js%282%29.pdf'>React Js(2).pdf</a> - Size: 34.08 MB
+|   ├── <a href='React.js/React%20Js%283%29.pdf'>React Js(3).pdf</a> - Size: 34.08 MB
+|   ├── <a href='React.js/full-stack-react-typescript-node.pdf'>full-stack-react-typescript-node.pdf</a> - Size: 23.75 MB
+|   ├── <a href='React.js/fullstack-react-30-days-of-react-2017.pdf'>fullstack-react-30-days-of-react-2017.pdf</a> - Size: 30.81 MB
 📂 Relegion
 |   ├── <a href='Relegion/%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85%20%D9%88%20%D9%85%D8%B4%D9%83%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8.pdf'>الاسلام و مشكلات الشباب.pdf</a> - Size: 0.38 MB
 |   ├── <a href='Relegion/%D8%A7%D9%84%D8%A8%D8%B1%D9%87%D8%A7%D9%86%20%D8%A7%D9%84%D9%85%D8%A4%D9%8A%D8%AF.pdf'>البرهان المؤيد.pdf</a> - Size: 0.62 MB
@@ -505,9 +583,8 @@
 |   ├── <a href='UI%20UX/uxpin_ux_design_process_best_practices.pdf'>uxpin_ux_design_process_best_practices.pdf</a> - Size: 12.47 MB
 📂 Unity
 |   ├── <a href='Unity/Unity%20Development%20Cookbook%20%282023%29.pdf'>Unity Development Cookbook (2023).pdf</a> - Size: 22.87 MB
-📂 VS Code
-|   ├── <a href='VS%20Code/VS%20Code.pdf'>VS Code.pdf</a> - Size: 11.81 MB
 📂 Visual Studio
+|   ├── <a href='Visual%20Studio/VS%20Code.pdf'>VS Code.pdf</a> - Size: 11.81 MB
 |   ├── <a href='Visual%20Studio/Visual%20Studio%20Tutorial.pdf'>Visual Studio Tutorial.pdf</a> - Size: 2.25 MB
 |   ├── <a href='Visual%20Studio/VisualStudioCode%20Tips%26Tricks%20Vol.1.pdf'>VisualStudioCode Tips&Tricks Vol.1.pdf</a> - Size: 1.49 MB
 📂 Web
