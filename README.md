@@ -5,9 +5,9 @@
 
 # 📚 E-Book Library Summary
 
-- **Total Books**: 162
-- **Total Folders**: 28
-- **Total Library Size**: 1.79 GB
+- **Total Books**: 173
+- **Total Folders**: 30
+- **Total Library Size**: 1.90 GB
 - **Book List**: The following is the directory structure of available books. You can click on each book to download it directly from GitHub.
     
 
@@ -153,7 +153,17 @@
 |   ├── <a href='Data%20Structures%20and%20Algorithms/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1_%D8%A7%D9%84%D8%B4%D8%A7%D8%B3%D8%B9_%D9%84%D8%AF%D8%AE%D9%88%D9%84_%D8%A7%D9%84%D8%AE%D9%88%D8%A7%D8%B1%D8%B2%D9%85%D9%8A%D8%A7%D8%AA_%D9%85%D9%86.pdf'>البحر_الشاسع_لدخول_الخوارزميات_من.pdf</a> - Size: 8.19 MB
 |   ├── <a href='Data%20Structures%20and%20Algorithms/%D8%A7%D9%84%D8%AE%D9%88%D8%A7%D8%B1%D8%B2%D9%85%D9%8A%D8%A7%D8%AA.pdf'>الخوارزميات.pdf</a> - Size: 0.54 MB
 |   ├── <a href='Data%20Structures%20and%20Algorithms/%D8%AA%D8%AD%D9%84%D9%8A%D9%84%20%D9%88%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A7%D9%84%D8%AE%D9%88%D8%A7%D8%B1%D8%B2%D9%85%D9%8A%D8%A7%D8%AA.pdf'>تحليل وتصميم الخوارزميات.pdf</a> - Size: 4.22 MB
+|   ├── <a href='Data%20Structures%20and%20Algorithms/%D8%AA%D8%AD%D9%85%D9%8A%D9%84%20%D9%85%D8%AC%D8%A7%D9%86%D9%89%20%D9%84%D9%83%D8%AA%D8%A7%D8%A8%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%AE%D9%88%D8%A7%D8%B1%D8%B2%D9%85%D9%8A%D8%A7%D8%AA%20%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%20%D8%B9%D9%85%D9%84%D9%89%20%D9%88%D9%86%D8%B8%D8%B1%D9%89%20%D9%81%D9%89%20150%20%D9%88%D8%B1%D9%82%D8%A9.pdf'>تحميل مجانى لكتاب شرح الخوارزميات باللغة العربية عملى ونظرى فى 150 ورقة.pdf</a> - Size: 4.22 MB
+|   ├── <a href='Data%20Structures%20and%20Algorithms/%D8%AA%D9%81%D9%87%D9%8A%D9%85%20%D8%A7%D9%84%D8%AE%D9%88%D8%A7%D8%B1%D8%B2%D9%85%D9%8A%D8%A7%D8%AA%20.pdf'>تفهيم الخوارزميات .pdf</a> - Size: 27.66 MB
 |   ├── <a href='Data%20Structures%20and%20Algorithms/%D9%87%D9%8A%D8%A7%D9%83%D9%84%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA%20%D9%88%20%D8%A7%D9%84%D8%AE%D9%88%D8%A7%D8%B1%D8%B2%D9%85%D9%8A%D8%A7%D8%AA.pdf'>هياكل البيانات و الخوارزميات.pdf</a> - Size: 0.52 MB
+📂 Deep Learning
+|   ├── <a href='Deep%20Learning/256%D8%B3%D8%A4%D8%A7%D9%84_%D9%88%D8%AC%D9%88%D8%A7%D8%A8_%D8%AD%D9%88%D9%84_%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D9%82_%D8%AF_%D8%B9%D9%84%D8%A7%D8%A1_%D8%B7%D8%B9%D9%8A%D9%85%D8%A9.pdf'>256سؤال_وجواب_حول_التعلم_العميق_د_علاء_طعيمة.pdf</a> - Size: 6.85 MB
+|   ├── <a href='Deep%20Learning/Deep%20Learning%20Course%20Notes.pdf'>Deep Learning Course Notes.pdf</a> - Size: 19.12 MB
+|   ├── <a href='Deep%20Learning/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D9%82%20%D8%B9%D9%86%20%D8%B7%D8%B1%D9%8A%D9%82%20%D8%A7%D9%84%D8%A7%D9%85%D8%AB%D9%84%D8%A9.pdf'>التعلم العميق عن طريق الامثلة.pdf</a> - Size: 17.57 MB
+|   ├── <a href='Deep%20Learning/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D9%82_%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%AF%D8%A6_%D9%88%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%87%D9%8A%D9%85_%D9%88%D8%A7%D9%84%D8%A3%D8%B3%D8%A7%D9%84%D9%8A%D8%A8.pdf'>التعلم_العميق_المبادئ_والمفاهيم_والأساليب.pdf</a> - Size: 6.41 MB
+|   ├── <a href='Deep%20Learning/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D9%82_%D8%A8%D8%A3%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85_%D9%84%D8%BA%D8%A9_%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86.pdf'>التعلم_العميق_بأستخدام_لغة_بايثون.pdf</a> - Size: 6.05 MB
+|   ├── <a href='Deep%20Learning/%D8%A7%D9%84%D8%AA%D8%B9%D9%85%D9%82_%D9%81%D9%8A_%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D9%82_%D8%AC1_%D8%AF_%D8%B9%D9%84%D8%A7%D8%A1_%D8%B7%D8%B9%D9%8A%D9%85%D8%A9.pdf'>التعمق_في_التعلم_العميق_ج1_د_علاء_طعيمة.pdf</a> - Size: 5.83 MB
+|   ├── <a href='Deep%20Learning/%D8%B4%D8%A8%D9%83%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AE%D8%B5%D9%88%D9%85%D8%A9%20%D8%A7%D9%84%D8%AA%D9%88%D9%84%D9%8A%D8%AF%D9%8A%D8%A9_%D8%AF.%20%D8%B9%D9%84%D8%A7%D8%A1%20%D8%B7%D8%B9%D9%8A%D9%85%D8%A9.pdf'>شبكات الخصومة التوليدية_د. علاء طعيمة.pdf</a> - Size: 8.63 MB
 📂 Digital Communications
 |   ├── <a href='Digital%20Communications/Communication%20systems%20-%20carlson.pdf'>Communication systems - carlson.pdf</a> - Size: 12.93 MB
 |   ├── <a href='Digital%20Communications/Data%20and%20Computer%20Communications-10th%20Ed.pdf'>Data and Computer Communications-10th Ed.pdf</a> - Size: 60.79 MB
@@ -179,9 +189,12 @@
 |   ├── <a href='English/new-english-file-intermediate-students-bookpdf_compress.pdf'>new-english-file-intermediate-students-bookpdf_compress.pdf</a> - Size: 20.66 MB
 |   ├── <a href='English/new-english-file-intermediate-workbookpdf_compress.pdf'>new-english-file-intermediate-workbookpdf_compress.pdf</a> - Size: 10.39 MB
 |   ├── <a href='English/%D9%85%D8%B9%D8%AC%D9%85%20%D8%A7%D9%84%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9.pdf'>معجم المصطلحات التقنية.pdf</a> - Size: 20.44 MB
+📂 Front End
+|   ├── <a href='Front%20End/UI%20Technologies%20.pdf'>UI Technologies .pdf</a> - Size: 5.12 MB
 📂 General
 |   ├── <a href='General/Noor-Book.com%20%20%D8%A7%D9%84%D9%87%D8%B4%D8%A7%D8%B4%D8%A9%20%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9.pdf'>Noor-Book.com  الهشاشة النفسية.pdf</a> - Size: 6.32 MB
 |   ├── <a href='General/Noor-Book.com%20%20%D8%AB%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D9%86%D9%81%D9%88%D9%85%D9%8A%D8%AF%D9%8A%D8%A7%203%20.pdf'>Noor-Book.com  ثورة الانفوميديا 3 .pdf</a> - Size: 11.52 MB
+|   ├── <a href='General/Resume%20Cheatsheet%20%F0%9F%94%96.pdf'>Resume Cheatsheet 🔖.pdf</a> - Size: 6.76 MB
 |   ├── <a href='General/The%20Nature%20of%20Code.pdf'>The Nature of Code.pdf</a> - Size: 16.74 MB
 |   ├── <a href='General/William%20Lidwell%2C%20Kritina%20Holden%2C%20Jill%20Butler%20-%20Universal%20principles%20of%20design_%20125%20ways%20to%20enhance%20usability%2C%20influence%20perception%2C%20increase%20appeal%2C%20make%20better%20design%20decisions%2C%20and%20teach%20through%20des.pdf'>William Lidwell, Kritina Holden, Jill Butler - Universal principles of design_ 125 ways to enhance usability, influence perception, increase appeal, make better design decisions, and teach through des.pdf</a> - Size: 11.39 MB
 |   ├── <a href='General/ipoque-internet-study-08-09.pdf'>ipoque-internet-study-08-09.pdf</a> - Size: 0.26 MB
