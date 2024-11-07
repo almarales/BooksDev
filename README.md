@@ -5,9 +5,9 @@
 
 # 📚 E-Book Library Summary
 
-- **Total Books**: 114
-- **Total Folders**: 22
-- **Total Library Size**: 1.12 GB
+- **Total Books**: 132
+- **Total Folders**: 24
+- **Total Library Size**: 1.29 GB
 - **Book List**: The following is the directory structure of available books. You can click on each book to download it directly from GitHub.
     
 
@@ -79,6 +79,7 @@
 |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/Computer_Organization_and_Architecture_10th_William_Stallings1_1.pdf'>Computer_Organization_and_Architecture_10th_William_Stallings1_1.pdf</a> - Size: 17.13 MB
 |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/ComuterStructurech02.pdf'>ComuterStructurech02.pdf</a> - Size: 0.10 MB
 |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/MK.Computer.Organization.and.Design.4th.Edition.Oct.2011-1.pdf'>MK.Computer.Organization.and.Design.4th.Edition.Oct.2011-1.pdf</a> - Size: 16.91 MB
+|   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/%D8%A8%D9%86%D9%8A%D8%A7%D9%86%20%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D9%88%D8%A8%202.pdf'>بنيان الحاسوب 2.pdf</a> - Size: 3.60 MB
 📂 Computer Principles
 |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/%D8%A3%D8%AC%D9%8A%D8%A7%D9%84%20%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B1%D9%86%D8%AA.docx'>أجيال الانترنت.docx</a> - Size: 0.07 MB
 |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/%D8%A3%D8%AC%D9%8A%D8%A7%D9%84%20%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B1%D9%86%D9%8A%D8%AA.pptx'>أجيال الانترنيت.pptx</a> - Size: 17.48 MB
@@ -91,17 +92,32 @@
 |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/%D9%85%D8%AD%D8%B6%D8%B1%D8%A9%20powerpoint.pdf'>محضرة powerpoint.pdf</a> - Size: 5.03 MB
 |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/%D9%86%D8%B8%D8%A7%D9%85%20%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA.pdf'>نظام الملفات.pdf</a> - Size: 0.20 MB
 📂 Cyber Security
+|   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/002%20CompTIA-Security-601-Study-Guide.pdf'>002 CompTIA-Security-601-Study-Guide.pdf</a> - Size: 22.89 MB
+|   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/4_5856985440573197062.pdf'>4_5856985440573197062.pdf</a> - Size: 0.18 MB
+|   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/CompTIA%20Security_%20SY0-601%20%281%29.pdf'>CompTIA Security_ SY0-601 (1).pdf</a> - Size: 16.95 MB
+|   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/CompTIA%20Security__%20SY0-601%20Cert%20-%20Packt.pdf'>CompTIA Security__ SY0-601 Cert - Packt.pdf</a> - Size: 16.09 MB
+|   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/CompTIA_Security_Notes_1599524562.pdf'>CompTIA_Security_Notes_1599524562.pdf</a> - Size: 0.43 MB
+|   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/CyberSecurity%20for%20Dummies.pdf'>CyberSecurity for Dummies.pdf</a> - Size: 11.99 MB
+|   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/Downloadable%20Official%20CompTIA%20Security-%20Student%20Guide.pdf'>Downloadable Official CompTIA Security- Student Guide.pdf</a> - Size: 37.78 MB
 |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/How%20to%20get%20a%20job%20in%20cyber%20security%20earning%20six%20figures.pdf'>How to get a job in cyber security earning six figures.pdf</a> - Size: 0.98 MB
+|   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/Sybex_CompTIA_Securityplus_Review_Guide_Exam_SY0_601_5th_Edition.pdf'>Sybex_CompTIA_Securityplus_Review_Guide_Exam_SY0_601_5th_Edition.pdf</a> - Size: 13.98 MB
+|   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/mike-meyers-comptia%20security%2B-%20certificatioin-passport.pdf'>mike-meyers-comptia security+- certificatioin-passport.pdf</a> - Size: 10.99 MB
 |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/%D8%A7%D9%84%D8%A3%D9%85%D9%86%20%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A.pdf'>الأمن السيبراني.pdf</a> - Size: 7.05 MB
 |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/%D8%A7%D9%84%D8%A7%D9%85%D9%86%20%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A.pdf'>الامن السيبراني.pdf</a> - Size: 7.17 MB
 |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/%D8%B7%D8%B1%D9%8A%D9%82%D9%83_%D9%84%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81_%D8%A7%D9%84%D8%A7%D9%85%D9%86_%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A_CyberSecAM_.pdf'>طريقك_لاحتراف_الامن_السيبراني_CyberSecAM_.pdf</a> - Size: 0.35 MB
 |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/%D9%85%D8%B9%D8%AC%D9%85%20%D8%A7%D9%84%D8%A7%D9%85%D9%86%20%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A.pdf'>معجم الامن السيبراني.pdf</a> - Size: 1.96 MB
 |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/%D9%85%D9%82%D8%AF%D9%85%D8%A9%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%A3%D9%85%D9%86%20%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A.pdf'>مقدمة في الأمن السيبراني.pdf</a> - Size: 8.47 MB
 📂 Data Base
+|   📂 DBMS
+|   |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/DBMA%F0%9F%92%AF.pdf'>DBMA💯.pdf</a> - Size: 10.78 MB
 |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/Fundamentals%20of%20Database%20System.pdf'>Fundamentals of Database System.pdf</a> - Size: 4.29 MB
+|   📂 MySQL
+|   |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/%F0%9D%97%9F%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%BB%20%F0%9D%97%A6%F0%9D%97%A4%F0%9D%97%9F%20%F0%9D%97%9C%F0%9D%97%BB%20%F0%9D%97%A2%F0%9D%97%BB%F0%9D%97%B2%20%F0%9D%97%97%F0%9D%97%AE%F0%9D%98%86%E2%9C%85.pdf'>𝗟𝗲𝗮𝗿𝗻 𝗦𝗤𝗟 𝗜𝗻 𝗢𝗻𝗲 𝗗𝗮𝘆✅.pdf</a> - Size: 2.24 MB
 |   📂 Postgre SQL
 |   |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/PostgreSQLNotesForProfessionals.pdf'>PostgreSQLNotesForProfessionals.pdf</a> - Size: 0.92 MB
 |   📂 SQL
+|   |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/Advanced%20SQL%20in%20just%2010%20Days-1.pdf'>Advanced SQL in just 10 Days-1.pdf</a> - Size: 4.54 MB
+|   |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/Basics%20of%20SQL%20.pdf'>Basics of SQL .pdf</a> - Size: 2.91 MB
 |   |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/SQL%2017%20AnalysisServices.pdf'>SQL 17 AnalysisServices.pdf</a> - Size: 16.82 MB
 |   |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/SQL%2017%20CLR%20Procedures.pdf'>SQL 17 CLR Procedures.pdf</a> - Size: 1.18 MB
 |   |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/SQL%2017%20DatabaseEngine.pdf'>SQL 17 DatabaseEngine.pdf</a> - Size: 5.17 MB
@@ -110,12 +126,16 @@
 |   |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/SQL%2017%20SSIS.pdf'>SQL 17 SSIS.pdf</a> - Size: 6.58 MB
 |   |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/SQL%2017%20SSMS.pdf'>SQL 17 SSMS.pdf</a> - Size: 2.12 MB
 |   |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/SQL%2017%20SSRS.pdf'>SQL 17 SSRS.pdf</a> - Size: 10.93 MB
+|   |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/SQL%20Guide%20for%20Beginners%20.pdf'>SQL Guide for Beginners .pdf</a> - Size: 4.57 MB
 |   |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/SQL%20NotesForProfessionals.pdf'>SQL NotesForProfessionals.pdf</a> - Size: 1.51 MB
+|   |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/SQL%20Tutorial.%20.pdf'>SQL Tutorial. .pdf</a> - Size: 3.09 MB
 |   |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/SQLServer2008R2InstallationWithServicePack1plusConnectionConfigurationOnVM.doc'>SQLServer2008R2InstallationWithServicePack1plusConnectionConfigurationOnVM.doc</a> - Size: 3.87 MB
 |   |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/SQL_TUTORIALS.txt'>SQL_TUTORIALS.txt</a> - Size: 0.00 MB
+|   |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/%F0%9D%97%A6%F0%9D%97%A4%F0%9D%97%9F%20%F0%9D%97%A4%F0%9D%98%82%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B6%F0%9D%97%B2%F0%9D%98%80%20%F0%9D%97%99%F0%9D%97%BC%F0%9D%97%BF%20%F0%9D%97%9C%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%83%F0%9D%97%B6%F0%9D%97%B2%F0%9D%98%84.pdf'>𝗦𝗤𝗟 𝗤𝘂𝗲𝗿𝗶𝗲𝘀 𝗙𝗼𝗿 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄.pdf</a> - Size: 2.88 MB
 |   📂 SQL Server
 |       ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/Microsoft%20SQLServer%20NotesForProfessionals.pdf'>Microsoft SQLServer NotesForProfessionals.pdf</a> - Size: 2.64 MB
 📂 Data Science
+|   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/A%20Quick%20Reference%20Handbook%20for%20Data%20Enthusiasts.pdf'>A Quick Reference Handbook for Data Enthusiasts.pdf</a> - Size: 10.12 MB
 |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/Data_Analysis_with_Microsoft_Power_Bi_by_Brian_Larson_z_lib_org.pdf'>Data_Analysis_with_Microsoft_Power_Bi_by_Brian_Larson_z_lib_org.pdf</a> - Size: 27.94 MB
 |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/Develpoing%20Analytic%20Talent.pdf'>Develpoing Analytic Talent.pdf</a> - Size: 2.84 MB
 |   ├── <a href='https%3A//github.com/Abdalrahman-Alhamod/Books/raw/main/Power%20BI.pdf'>Power BI.pdf</a> - Size: 7.65 MB
