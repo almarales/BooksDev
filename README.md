@@ -5,9 +5,9 @@
 
 # 📚 E-Book Library Summary
 
-- **Total Books**: 205
-- **Total Folders**: 39
-- **Total Library Size**: 2.12 GB
+- **Total Books**: 229
+- **Total Folders**: 45
+- **Total Library Size**: 2.40 GB
 - **Book List**: The following is the directory structure of available books. You can click on each book to download it directly from GitHub.
     
 
@@ -255,6 +255,36 @@
 📂 Probability and Statistics
 |   ├── <a href='Probability%20and%20Statistics/Head%20First%20Statistics.pdf'>Head First Statistics.pdf</a> - Size: 36.69 MB
 |   ├── <a href='Probability%20and%20Statistics/Probability_and_Statistics_for_Engineers_and_Scientists_9th_edition.pdf'>Probability_and_Statistics_for_Engineers_and_Scientists_9th_edition.pdf</a> - Size: 6.00 MB
+📂 Raspberry Pi
+|   ├── <a href='Raspberry%20Pi/Simply%20Raspberry%20Pi.pdf'>Simply Raspberry Pi.pdf</a> - Size: 16.44 MB
+📂 Relegion
+|   ├── <a href='Relegion/%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85%20%D9%88%20%D9%85%D8%B4%D9%83%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8.pdf'>الاسلام و مشكلات الشباب.pdf</a> - Size: 0.38 MB
+|   ├── <a href='Relegion/%D8%A7%D9%84%D8%A8%D8%B1%D9%87%D8%A7%D9%86%20%D8%A7%D9%84%D9%85%D8%A4%D9%8A%D8%AF.pdf'>البرهان المؤيد.pdf</a> - Size: 0.62 MB
+|   ├── <a href='Relegion/%D8%A7%D9%84%D9%88%D8%AC%D9%8A%D8%B2%20%D9%81%D9%8A%20%D8%A7%D8%B5%D9%88%D9%84%20%D8%A7%D9%84%D9%81%D9%82%D9%87.pdf'>الوجيز في اصول الفقه.pdf</a> - Size: 4.06 MB
+|   ├── <a href='Relegion/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D8%A7%D9%84%D8%B9%D8%B8%D9%8A%D9%85%20%D8%AA%D9%81%D8%B3%D9%8A%D8%B1%20%D8%A7%D8%A8%D9%86%20%D9%83%D8%AB%D9%8A%D8%B1.pdf'>تفسير القرآن العظيم تفسير ابن كثير.pdf</a> - Size: 68.34 MB
+|   ├── <a href='Relegion/%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D9%84%D9%83%20%D8%A8%D8%B4%D8%B1%D8%AD%20%D9%88%D8%A3%D8%AF%D9%84%D8%A9%20%D8%B9%D9%85%D8%AF%D8%A9%20%D8%A7%D9%84%D8%B3%D8%A7%D9%84%D9%83%20%D9%88%D8%B9%D8%AF%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%B3%D9%83.pdf'>تنوير المسالك بشرح وأدلة عمدة السالك وعدة الناسك.pdf</a> - Size: 24.80 MB
+|   ├── <a href='Relegion/%D8%AD%D8%B1%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86%20%D9%81%D9%8A%20%D8%B8%D9%84%20%D8%B9%D8%A8%D9%88%D8%AF%D9%8A%D8%AA%D9%87%20%D9%84%D9%84%D9%87%203%20.pdf'>حرية الإنسان في ظل عبوديته لله 3 .pdf</a> - Size: 1.52 MB
+|   ├── <a href='Relegion/%D8%B1%D8%AD%D9%84%D8%AA%D9%89%20%D9%85%D9%86%20%D8%A7%D9%84%D8%B4%D9%83%20%D8%A7%D9%84%D9%89%20%D8%A7%D9%84%D8%A7%D9%8A%D9%85%D8%A7%D9%86.pdf'>رحلتى من الشك الى الايمان.pdf</a> - Size: 1.54 MB
+|   ├── <a href='Relegion/%D8%B3%D9%8A%D8%AF%D9%86%D8%A7%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B1%D8%B3%D9%88%D9%84%20%D8%A7%D9%84%D9%84%D9%87.pdf'>سيدنا محمد رسول الله.pdf</a> - Size: 49.00 MB
+|   ├── <a href='Relegion/%D9%81%D8%A7%D8%AA%D8%AA%D9%86%D9%89%20%D8%B5%D9%84%D8%A7%D8%A9.pdf'>فاتتنى صلاة.pdf</a> - Size: 2.33 MB
+|   ├── <a href='Relegion/%D9%84%D8%A7%D9%86%D9%83%20%D8%A7%D9%84%D9%84%D9%87%20%D8%B1%D8%AD%D9%84%D8%A9%20%D8%A7%D9%84%D9%89%20%D8%A7%D9%84%D8%B3%D9%85%D8%A7%D8%A1%20%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9%D8%A9%202%20.pdf'>لانك الله رحلة الى السماء السابعة 2 .pdf</a> - Size: 3.57 MB
+📂 Risk Management
+|   ├── <a href='Risk%20Management/Risk%20Management%2018%20Arabic.pdf'>Risk Management 18 Arabic.pdf</a> - Size: 0.65 MB
+📂 Software Engineering
+|   ├── <a href='Software%20Engineering/RPL_7th_ed_software_engineering_a_practitioners_approach_by_roger.pdf'>RPL_7th_ed_software_engineering_a_practitioners_approach_by_roger.pdf</a> - Size: 20.05 MB
+|   ├── <a href='Software%20Engineering/Software%20Engineering%2C%2010th%20Edition%20by%20Ian%20Sommerville.pdf'>Software Engineering, 10th Edition by Ian Sommerville.pdf</a> - Size: 11.44 MB
+|   ├── <a href='Software%20Engineering/UML%202%20%26%20the%20Unified%20Process%20Pra%20-%20Jim%20Arlow.pdf'>UML 2 & the Unified Process Pra - Jim Arlow.pdf</a> - Size: 9.43 MB
+|   ├── <a href='Software%20Engineering/%D8%A3%D8%AD%D8%AF%D8%AB%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%20%D9%81%D9%89%20%D9%87%D9%86%D9%86%D8%AF%D8%B3%D8%A9%20%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AB%D8%A9_Software_Engineering.pdf'>أحدث كتاب باللغة العربية فى هنندسة البرمجيات الحديثة_Software_Engineering.pdf</a> - Size: 4.63 MB
+|   ├── <a href='Software%20Engineering/%D8%AF%D9%84%D9%8A%D9%84%20%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D8%A9%20%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9%20%D8%A7%D9%84%D9%85%D8%B5%D8%AF%D8%B1%20%20.pdf'>دليل البرمجيات الحرة مفتوحة المصدر  .pdf</a> - Size: 4.02 MB
+📂 Visual Studio
+|   ├── <a href='Visual%20Studio/Visual%20Studio%20Tutorial.pdf'>Visual Studio Tutorial.pdf</a> - Size: 2.25 MB
+|   ├── <a href='Visual%20Studio/VisualStudioCode%20Tips%26Tricks%20Vol.1.pdf'>VisualStudioCode Tips&Tricks Vol.1.pdf</a> - Size: 1.49 MB
+📂 Web
+|   ├── <a href='Web/0800-html-css-bootstrap-javascript-and-jquery.pdf'>0800-html-css-bootstrap-javascript-and-jquery.pdf</a> - Size: 0.64 MB
+|   ├── <a href='Web/HTML%20CSS%20and%20JavaScript%20Web%20Publishing%20in%20One%20Hour%20a%20Day%20Sams%20Teach%20Yoursel%207th%20Edition.pdf'>HTML CSS and JavaScript Web Publishing in One Hour a Day Sams Teach Yoursel 7th Edition.pdf</a> - Size: 35.54 MB
+|   ├── <a href='Web/Webbook.pdf'>Webbook.pdf</a> - Size: 12.95 MB
+|   ├── <a href='Web/ps_web.pdf'>ps_web.pdf</a> - Size: 5.23 MB
+|   ├── <a href='Web/web_for_beginnerss.pdf'>web_for_beginnerss.pdf</a> - Size: 4.28 MB
 </pre>
 
 <!-- FILE_STRUCTURE_END -->
