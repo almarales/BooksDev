@@ -5,8 +5,8 @@
 
 # 📚 E-Book Library Summary
 
-- **Total Books**: 118
-- **Total Folders**: 27
+- **Total Books**: 127
+- **Total Folders**: 28
 - **Book List**: The following is the directory structure of available books. You can click on each book to download it directly from GitHub.
     
 
@@ -155,6 +155,16 @@
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA%20%40pro2dev.pdf'>علم_البيانات @pro2dev.pdf</a> - Size: 76.10 MB
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA_%D8%B9%D9%86_%D8%B7%D8%B1%D9%8A%D9%82_%D8%A7%D9%84%D8%A7%D9%85%D8%AB%D9%84%D8%A9_%D8%AF_%D8%B9%D9%84%D8%A7%D8%A1_%D8%B7%D8%B9%D9%8A%D9%85%D8%A9.pdf'>علم_البيانات_عن_طريق_الامثلة_د_علاء_طعيمة.pdf</a> - Size: 12.01 MB
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/%D9%83%D8%AA%D9%8A%D8%A8%20%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AAv.2%20-%20Final.pdf'>كتيب علم البياناتv.2 - Final.pdf</a> - Size: 9.68 MB
+📂 Data Structures and Algorithms
+|   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/Algorithms.pdf'>Algorithms.pdf</a> - Size: 12.33 MB
+|   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/AlgorithmsNotesForProfessionals.pdf'>AlgorithmsNotesForProfessionals.pdf</a> - Size: 2.63 MB
+|   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/DATA%20STRUCTURES%20%26%20ALGORITHM%E2%97%BENOTES.pdf'>DATA STRUCTURES & ALGORITHM◾NOTES.pdf</a> - Size: 14.30 MB
+|   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/Data%20Structures%20and%20Algorithms%20for%20Job%20Interviews.pdf'>Data Structures and Algorithms for Job Interviews.pdf</a> - Size: 0.86 MB
+|   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/Introduction%20to%20Algorithms%20Third%20Edition%20%282009%29.pdf'>Introduction to Algorithms Third Edition (2009).pdf</a> - Size: 5.37 MB
+|   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1_%D8%A7%D9%84%D8%B4%D8%A7%D8%B3%D8%B9_%D9%84%D8%AF%D8%AE%D9%88%D9%84_%D8%A7%D9%84%D8%AE%D9%88%D8%A7%D8%B1%D8%B2%D9%85%D9%8A%D8%A7%D8%AA_%D9%85%D9%86.pdf'>البحر_الشاسع_لدخول_الخوارزميات_من.pdf</a> - Size: 8.19 MB
+|   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/%D8%A7%D9%84%D8%AE%D9%88%D8%A7%D8%B1%D8%B2%D9%85%D9%8A%D8%A7%D8%AA.pdf'>الخوارزميات.pdf</a> - Size: 0.54 MB
+|   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/%D8%AA%D8%AD%D9%84%D9%8A%D9%84%20%D9%88%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A7%D9%84%D8%AE%D9%88%D8%A7%D8%B1%D8%B2%D9%85%D9%8A%D8%A7%D8%AA.pdf'>تحليل وتصميم الخوارزميات.pdf</a> - Size: 4.22 MB
+|   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/%D9%87%D9%8A%D8%A7%D9%83%D9%84%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA%20%D9%88%20%D8%A7%D9%84%D8%AE%D9%88%D8%A7%D8%B1%D8%B2%D9%85%D9%8A%D8%A7%D8%AA.pdf'>هياكل البيانات و الخوارزميات.pdf</a> - Size: 0.52 MB
 </pre>
 
 <!-- FILE_STRUCTURE_END -->
