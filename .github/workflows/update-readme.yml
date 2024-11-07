@@ -31,11 +31,12 @@ jobs:
 
       - name: Check for changes
         run: git diff --exit-code README.md || echo "Changes detected in README.md"
-
+      
       - name: Commit changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md
           git commit -m "Automated update of README file structure" || exit 0
-          git push
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+
