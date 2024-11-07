@@ -5,9 +5,9 @@
 
 # 📚 E-Book Library Summary
 
-- **Total Books**: 173
-- **Total Folders**: 30
-- **Total Library Size**: 1.90 GB
+- **Total Books**: 205
+- **Total Folders**: 39
+- **Total Library Size**: 2.12 GB
 - **Book List**: The following is the directory structure of available books. You can click on each book to download it directly from GitHub.
     
 
@@ -214,6 +214,47 @@
 |   ├── <a href='Graphics/Maths%20%26%20Physics%204%20Game%20Programmers.chm'>Maths & Physics 4 Game Programmers.chm</a> - Size: 2.69 MB
 |   ├── <a href='Graphics/OpenGL%20ES%203.0%20Cookbook.pdf'>OpenGL ES 3.0 Cookbook.pdf</a> - Size: 45.47 MB
 |   ├── <a href='Graphics/OpenGL%20Insights.pdf'>OpenGL Insights.pdf</a> - Size: 15.43 MB
+📂 LINUX
+|   ├── <a href='LINUX/Advantages%20with%20Linux%20command%20line.pdf'>Advantages with Linux command line.pdf</a> - Size: 4.24 MB
+|   ├── <a href='LINUX/The_Linux_Command_Line-arabic-14.07.pdf'>The_Linux_Command_Line-arabic-14.07.pdf</a> - Size: 3.15 MB
+|   ├── <a href='LINUX/%D8%A3%D9%88%D8%A8%D9%86%D8%AA%D9%88%20%D8%A8%D8%A8%D8%B3%D8%A7%D8%B7%D8%A9.pdf'>أوبنتو ببساطة.pdf</a> - Size: 10.79 MB
+📂 MS Office
+|   ├── <a href='MS%20Office/Complete%20Microsoft%20Access%20Tutorial.pdf'>Complete Microsoft Access Tutorial.pdf</a> - Size: 2.02 MB
+|   ├── <a href='MS%20Office/Excel%2051%20Tips%20Ebook%20Final.pdf'>Excel 51 Tips Ebook Final.pdf</a> - Size: 3.13 MB
+📂 Machine Learning
+|   ├── <a href='Machine%20Learning/2017_Book_AnIntroductionToMachineLearnin.pdf'>2017_Book_AnIntroductionToMachineLearnin.pdf</a> - Size: 4.51 MB
+|   ├── <a href='Machine%20Learning/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D9%82%20%D8%B9%D9%86%20%D8%B7%D8%B1%D9%8A%D9%82%20%D8%A7%D9%84%D8%A7%D9%85%D8%AB%D9%84%D8%A9.pdf'>التعلم العميق عن طريق الامثلة.pdf</a> - Size: 17.57 MB
+|   ├── <a href='Machine%20Learning/%D8%AA%D9%86%D9%82%D9%8A%D8%A8_%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA_%D9%88%D8%AA%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%A2%D9%84%D8%A9_%D8%A8%D8%AF%D9%88%D9%86_%D8%A8%D8%B1%D9%85%D8%AC%D8%A9_%D8%AF_%D8%B9%D9%84%D8%A7%D8%A1_%D8%B7%D8%B9%D9%8A%D9%85%D8%A9.pdf'>تنقيب_البيانات_وتعلم_الآلة_بدون_برمجة_د_علاء_طعيمة.pdf</a> - Size: 7.28 MB
+|   ├── <a href='Machine%20Learning/%D9%85%D8%AF%D8%AE%D9%84_%D8%A5%D9%84%D9%89_%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1_%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A_%D9%88%D8%AA%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%A2%D9%84%D8%A9.pdf'>مدخل_إلى_الذكاء_الاصطناعي_وتعلم_الآلة.pdf</a> - Size: 7.85 MB
+|   ├── <a href='Machine%20Learning/%D9%85%D8%B9%D8%AC%D9%85_%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%A2%D9%84%D9%8A_%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D9%82_%D9%88%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA_%D8%AF_%D8%B9%D9%84%D8%A7%D8%A1_%D8%B7%D8%B9%D9%8A%D9%85%D8%A9.pdf'>معجم_مصطلحات_التعلم_الآلي_والتعلم_العميق_وعلم_البيانات_د_علاء_طعيمة.pdf</a> - Size: 5.44 MB
+📂 Maintenance
+|   ├── <a href='Maintenance/Keyboard%20Shortcuts%20Windows.pdf'>Keyboard Shortcuts Windows.pdf</a> - Size: 0.25 MB
+|   ├── <a href='Maintenance/Lenovo%20Harware%20Maintenance%20Manual.pdf'>Lenovo Harware Maintenance Manual.pdf</a> - Size: 25.33 MB
+|   ├── <a href='Maintenance/laptops_for_dummies.pdf'>laptops_for_dummies.pdf</a> - Size: 8.08 MB
+|   ├── <a href='Maintenance/%D8%A7%D9%84%D8%AC%D9%84%D8%B3%D8%A9%20%D8%A7%D9%84%D8%A7%D9%88%D9%84%D9%89.pdf'>الجلسة الاولى.pdf</a> - Size: 1.51 MB
+|   ├── <a href='Maintenance/%D9%85%D9%83%D8%AA%D8%A8%D8%A9%20%D9%86%D9%88%D8%B1%20%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9%20%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA%20%D8%A7%D9%84%D9%82%D8%B1%D8%B5%20%D8%A7%D9%84%D8%B5%D9%84%D8%A8.pdf'>مكتبة نور استعادة بيانات القرص الصلب.pdf</a> - Size: 0.31 MB
+|   ├── <a href='Maintenance/%D9%85%D9%83%D8%AA%D8%A8%D8%A9%20%D9%86%D9%88%D8%B1%20%D8%A7%D9%86%D8%B4%D8%A7%D8%A1%20%D9%82%D9%86%D8%A7%D8%A9%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8.pdf'>مكتبة نور انشاء قناة على اليوتيوب.pdf</a> - Size: 0.72 MB
+📂 Networks
+|   ├── <a href='Networks/CompTIA-Network-N10-007-Exam-Objectives.pdf'>CompTIA-Network-N10-007-Exam-Objectives.pdf</a> - Size: 0.18 MB
+|   ├── <a href='Networks/House%20Local%20Network%20TPLINK.pdf'>House Local Network TPLINK.pdf</a> - Size: 2.50 MB
+|   ├── <a href='Networks/Network-N10-007-Exam-Objectives.pdf'>Network-N10-007-Exam-Objectives.pdf</a> - Size: 0.17 MB
+|   ├── <a href='Networks/Techniques%20Of%20Physical%20Hacking.zip'>Techniques Of Physical Hacking.zip</a> - Size: 10.52 MB
+|   ├── <a href='Networks/Wireless%20Networks%20%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA%20%D8%A7%D9%84%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A%D8%A9.pdf'>Wireless Networks الشبكات اللاسلكية.pdf</a> - Size: 0.44 MB
+|   ├── <a href='Networks/%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%20%D8%A8%D8%B1%D9%85%D8%AC%D8%A9%20%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA%281%29.pdf'>احتراف برمجة الشبكات(1).pdf</a> - Size: 4.45 MB
+|   ├── <a href='Networks/%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B3%D9%84%D9%83%D9%8A%D8%A9%20%D9%88%20%D8%A7%D9%84%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A%D8%A9.pdf'>الشبكات السلكية و اللاسلكية.pdf</a> - Size: 4.01 MB
+|   ├── <a href='Networks/%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA%20%D8%A7%D9%84%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A%D8%A9%20%28CCNA%20wireless%29.pdf'>الشبكات اللاسلكية (CCNA wireless).pdf</a> - Size: 5.16 MB
+|   ├── <a href='Networks/%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA%20%D8%A7%D9%84%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A%D8%A9.pdf'>الشبكات اللاسلكية.pdf</a> - Size: 0.16 MB
+|   ├── <a href='Networks/%D8%AA%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA_%D9%85%D9%86_%D8%A7%D9%84%D8%B5%D9%81%D8%B1_%D8%AD%D8%AA%D9%89_%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81.pdf'>تعلم_الشبكات_من_الصفر_حتى_الاحتراف.pdf</a> - Size: 1.65 MB
+📂 Numerical Analysis
+|   ├── <a href='Numerical%20Analysis/Math%20Terms%20in%20English.txt'>Math Terms in English.txt</a> - Size: 0.02 MB
+|   ├── <a href='Numerical%20Analysis/Numerical-Analysis%20DAMASCUS%20UNIVERSITY.pdf'>Numerical-Analysis DAMASCUS UNIVERSITY.pdf</a> - Size: 41.82 MB
+📂 Physics
+|   ├── <a href='Physics/%D9%85%D9%8A%D9%83%D8%A7%D9%86%D9%8A%D9%83%20%D8%A7%D9%84%D9%86%D9%82%D8%B7%D8%A9%20%D8%A7%D9%84%D9%85%D8%A7%D8%AF%D9%8A%D8%A9.pdf'>ميكانيك النقطة المادية.pdf</a> - Size: 10.17 MB
+📂 PowerShell
+|   ├── <a href='PowerShell/PowerShellNotesForProfessionals.pdf'>PowerShellNotesForProfessionals.pdf</a> - Size: 1.72 MB
+📂 Probability and Statistics
+|   ├── <a href='Probability%20and%20Statistics/Head%20First%20Statistics.pdf'>Head First Statistics.pdf</a> - Size: 36.69 MB
+|   ├── <a href='Probability%20and%20Statistics/Probability_and_Statistics_for_Engineers_and_Scientists_9th_edition.pdf'>Probability_and_Statistics_for_Engineers_and_Scientists_9th_edition.pdf</a> - Size: 6.00 MB
 </pre>
 
 <!-- FILE_STRUCTURE_END -->
