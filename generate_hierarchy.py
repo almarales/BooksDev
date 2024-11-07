@@ -8,7 +8,7 @@ def generate_hierarchy(directory, base_url, indent="", ignore_git=True, ignore_f
     folder_count = 0
     
     if ignore_files is None:
-        ignore_files = {".git", "generate_hierarchy.py", "README.md"}
+        ignore_files = {".git",".gtihub", "generate_hierarchy.py", "README.md"}
     
     items = sorted(os.listdir(directory))
     
