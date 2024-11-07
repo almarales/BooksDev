@@ -5,9 +5,9 @@
 
 # 📚 E-Book Library Summary
 
-- **Total Books**: 143
-- **Total Folders**: 25
-- **Total Library Size**: 1.48 GB
+- **Total Books**: 154
+- **Total Folders**: 27
+- **Total Library Size**: 1.65 GB
 - **Book List**: The following is the directory structure of available books. You can click on each book to download it directly from GitHub.
     
 
@@ -179,6 +179,19 @@
 |   ├── <a href='English/new-english-file-intermediate-students-bookpdf_compress.pdf'>new-english-file-intermediate-students-bookpdf_compress.pdf</a> - Size: 20.66 MB
 |   ├── <a href='English/new-english-file-intermediate-workbookpdf_compress.pdf'>new-english-file-intermediate-workbookpdf_compress.pdf</a> - Size: 10.39 MB
 |   ├── <a href='English/%D9%85%D8%B9%D8%AC%D9%85%20%D8%A7%D9%84%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9.pdf'>معجم المصطلحات التقنية.pdf</a> - Size: 20.44 MB
+📂 General
+|   ├── <a href='General/Noor-Book.com%20%20%D8%A7%D9%84%D9%87%D8%B4%D8%A7%D8%B4%D8%A9%20%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9.pdf'>Noor-Book.com  الهشاشة النفسية.pdf</a> - Size: 6.32 MB
+|   ├── <a href='General/Noor-Book.com%20%20%D8%AB%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D9%86%D9%81%D9%88%D9%85%D9%8A%D8%AF%D9%8A%D8%A7%203%20.pdf'>Noor-Book.com  ثورة الانفوميديا 3 .pdf</a> - Size: 11.52 MB
+|   ├── <a href='General/The%20Nature%20of%20Code.pdf'>The Nature of Code.pdf</a> - Size: 16.74 MB
+|   ├── <a href='General/William%20Lidwell%2C%20Kritina%20Holden%2C%20Jill%20Butler%20-%20Universal%20principles%20of%20design_%20125%20ways%20to%20enhance%20usability%2C%20influence%20perception%2C%20increase%20appeal%2C%20make%20better%20design%20decisions%2C%20and%20teach%20through%20des.pdf'>William Lidwell, Kritina Holden, Jill Butler - Universal principles of design_ 125 ways to enhance usability, influence perception, increase appeal, make better design decisions, and teach through des.pdf</a> - Size: 11.39 MB
+|   ├── <a href='General/ipoque-internet-study-08-09.pdf'>ipoque-internet-study-08-09.pdf</a> - Size: 0.26 MB
+|   ├── <a href='General/%D9%83%D9%8A%D9%81%20%D9%8A%D8%AA%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D9%85%D8%A8%D8%B1%D9%85%D8%AC%20%D8%A8%D8%B4%D9%83%D9%84%20%D8%B5%D8%AD%D9%8A%D8%AD.pdf'>كيف يتعلم المبرمج بشكل صحيح.pdf</a> - Size: 2.20 MB
+|   ├── <a href='General/%D9%83%D9%8A%D9%81%D9%8A%D8%A9%20%D8%A8%D9%86%D8%A7%D8%A1%20%D8%AD%D8%B3%D8%A7%D8%A8%20%D8%B9%D9%84%D9%89%20%D9%84%D9%8A%D9%86%D9%83%D8%AF%20%D8%A7%D9%86.pdf'>كيفية بناء حساب على لينكد ان.pdf</a> - Size: 84.33 MB
+📂 General & Linear Algebra
+|   ├── <a href='General%20%26%20Linear%20Algebra/Abstract%20Algebra.pdf'>Abstract Algebra.pdf</a> - Size: 2.33 MB
+|   ├── <a href='General%20%26%20Linear%20Algebra/Discrete%20Mathematics.pdf'>Discrete Mathematics.pdf</a> - Size: 14.25 MB
+|   ├── <a href='General%20%26%20Linear%20Algebra/General%20Algebra.pdf'>General Algebra.pdf</a> - Size: 9.66 MB
+|   ├── <a href='General%20%26%20Linear%20Algebra/Howard%20Anton%2C%20Chris%20Rorres%20-%20Elementary%20Linear%20Algebra%20with%20Applications-Wiley%20%282005%29.pdf'>Howard Anton, Chris Rorres - Elementary Linear Algebra with Applications-Wiley (2005).pdf</a> - Size: 16.06 MB
 </pre>
 
 <!-- FILE_STRUCTURE_END -->
