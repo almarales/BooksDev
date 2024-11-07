@@ -5,9 +5,9 @@
 
 # 📚 E-Book Library Summary
 
-- **Total Books**: 126
+- **Total Books**: 105
 - **Total Folders**: 16
-- **Total Library Size**: 959.38 MB
+- **Total Library Size**: 956.64 MB
 - **Book List**: The following is the directory structure of available books. You can click on each book to download it directly from GitHub.
     
 
@@ -44,34 +44,6 @@
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/android_tutorial.pdf'>android_tutorial.pdf</a> - Size: 1.44 MB
 📂 Arduino
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/All%20about%20Arduino%20Simulation.pdf'>All about Arduino Simulation.pdf</a> - Size: 2.90 MB
-|   📂 Arduino Simulation
-|   |   📂 Library
-|   |   |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/ARDUINO.IDX'>ARDUINO.IDX</a> - Size: 0.00 MB
-|   |   |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/ARDUINO.LIB'>ARDUINO.LIB</a> - Size: 0.11 MB
-|   |   |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/Boards_Shields.jpg'>Boards_Shields.jpg</a> - Size: 0.43 MB
-|   |   |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/README.txt'>README.txt</a> - Size: 0.00 MB
-|   |   |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/UltraSonicSensor.HEX'>UltraSonicSensor.HEX</a> - Size: 0.00 MB
-|   |   |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/boards.DSN'>boards.DSN</a> - Size: 0.11 MB
-|   |   📂 Simple-Proteus-Arduino-Library
-|   |   |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/ARDUINO.IDX'>ARDUINO.IDX</a> - Size: 0.00 MB
-|   |   |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/ARDUINO.LIB'>ARDUINO.LIB</a> - Size: 0.09 MB
-|   |   📂 barGraph
-|   |       📂 Proteus
-|   |       |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/barGraph.cpp.elf'>barGraph.cpp.elf</a> - Size: 0.02 MB
-|   |       |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/barGraph.cpp.hex'>barGraph.cpp.hex</a> - Size: 0.00 MB
-|   |       |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/barGraph_LilyPad.DSN'>barGraph_LilyPad.DSN</a> - Size: 0.10 MB
-|   |       |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/barGraph_Nano.DSN'>barGraph_Nano.DSN</a> - Size: 0.09 MB
-|   |       |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/barGraph_Uno.DSN'>barGraph_Uno.DSN</a> - Size: 0.09 MB
-|   |       📂 Schematic
-|   |       |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/00.jpg'>00.jpg</a> - Size: 0.29 MB
-|   |       |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/100.jpg'>100.jpg</a> - Size: 0.30 MB
-|   |       |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/11.jpg'>11.jpg</a> - Size: 0.28 MB
-|   |       |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/BarGraph_LilyPad.jpg'>BarGraph_LilyPad.jpg</a> - Size: 0.29 MB
-|   |       |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/BarGraph_Nano.jpg'>BarGraph_Nano.jpg</a> - Size: 0.21 MB
-|   |       |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/BarGraph_Uno.jpg'>BarGraph_Uno.jpg</a> - Size: 0.25 MB
-|   |       |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/BarGraph_schem.jpg'>BarGraph_schem.jpg</a> - Size: 0.08 MB
-|   |       📂 Source
-|   |           ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/barGraph.ino'>barGraph.ino</a> - Size: 0.00 MB
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/Arduino%20Solutions%20Handbook.pdf'>Arduino Solutions Handbook.pdf</a> - Size: 8.02 MB
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/Noor-Book.com%20%20%D8%A8%D8%B1%D9%85%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%88%D9%8A%D9%86%D9%88%203%20.pdf'>Noor-Book.com  برمجة الأردوينو 3 .pdf</a> - Size: 26.81 MB
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/Noor_Book_com_%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%88%D9%8A%D9%86%D9%88_%D9%85%D9%86_%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9_%D9%88%D8%AD%D8%AA%D9%89_%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81_1.pdf'>Noor_Book_com_الأردوينو_من_البداية_وحتى_الاحتراف_1.pdf</a> - Size: 11.36 MB
