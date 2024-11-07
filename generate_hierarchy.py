@@ -90,7 +90,7 @@ def update_readme(content, book_count, folder_count, total_size):
         readme_file.write(new_content)
 
 # Set the base URL for your GitHub repository
-base_url = "https://github.com/Abdalrahman-Alhamod/Books/raw/main/"
+base_url = ""
 
 # Generate the hierarchy and update README
 hierarchy_content, book_count, folder_count, total_size = generate_hierarchy(".", base_url)
