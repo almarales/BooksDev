@@ -5,9 +5,9 @@
 
 # 📚 E-Book Library Summary
 
-- **Total Books**: 105
-- **Total Folders**: 19
-- **Total Library Size**: 956.64 MB
+- **Total Books**: 114
+- **Total Folders**: 22
+- **Total Library Size**: 1.12 GB
 - **Book List**: The following is the directory structure of available books. You can click on each book to download it directly from GitHub.
     
 
@@ -79,7 +79,6 @@
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/Computer_Organization_and_Architecture_10th_William_Stallings1_1.pdf'>Computer_Organization_and_Architecture_10th_William_Stallings1_1.pdf</a> - Size: 17.13 MB
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/ComuterStructurech02.pdf'>ComuterStructurech02.pdf</a> - Size: 0.10 MB
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/MK.Computer.Organization.and.Design.4th.Edition.Oct.2011-1.pdf'>MK.Computer.Organization.and.Design.4th.Edition.Oct.2011-1.pdf</a> - Size: 16.91 MB
-|   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/computer-architecture%20DAMASCUS%20UNIVERSITY.pdf'>computer-architecture DAMASCUS UNIVERSITY.pdf</a> - Size: 3.04 MB
 📂 Computer Principles
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/%D8%A3%D8%AC%D9%8A%D8%A7%D9%84%20%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B1%D9%86%D8%AA.docx'>أجيال الانترنت.docx</a> - Size: 0.07 MB
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/%D8%A3%D8%AC%D9%8A%D8%A7%D9%84%20%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B1%D9%86%D9%8A%D8%AA.pptx'>أجيال الانترنيت.pptx</a> - Size: 17.48 MB
@@ -135,6 +134,19 @@
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/%D8%A7%D9%84%D8%AE%D9%88%D8%A7%D8%B1%D8%B2%D9%85%D9%8A%D8%A7%D8%AA.pdf'>الخوارزميات.pdf</a> - Size: 0.54 MB
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/%D8%AA%D8%AD%D9%84%D9%8A%D9%84%20%D9%88%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A7%D9%84%D8%AE%D9%88%D8%A7%D8%B1%D8%B2%D9%85%D9%8A%D8%A7%D8%AA.pdf'>تحليل وتصميم الخوارزميات.pdf</a> - Size: 4.22 MB
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/%D9%87%D9%8A%D8%A7%D9%83%D9%84%20%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA%20%D9%88%20%D8%A7%D9%84%D8%AE%D9%88%D8%A7%D8%B1%D8%B2%D9%85%D9%8A%D8%A7%D8%AA.pdf'>هياكل البيانات و الخوارزميات.pdf</a> - Size: 0.52 MB
+📂 Digital Communications
+|   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/Communication%20systems%20-%20carlson.pdf'>Communication systems - carlson.pdf</a> - Size: 12.93 MB
+|   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/Data%20and%20Computer%20Communications-10th%20Ed.pdf'>Data and Computer Communications-10th Ed.pdf</a> - Size: 60.79 MB
+|   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/Data_Communications_and_Networking_-_Behrouz_A.pdf'>Data_Communications_and_Networking_-_Behrouz_A.pdf</a> - Size: 45.48 MB
+📂 Digital Fundamentals
+|   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/Digital%20Fundamentals%20%2811th%20Edition%29.pdf'>Digital Fundamentals (11th Edition).pdf</a> - Size: 24.39 MB
+📂 Electrical Circuites
+|   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/Electric%20Circuites%20Practical.pdf'>Electric Circuites Practical.pdf</a> - Size: 28.31 MB
+|   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/fundamentals_of_electric_circuits_4th_ed_c_alexander_m_sadiku_mcgraw.pdf'>fundamentals_of_electric_circuits_4th_ed_c_alexander_m_sadiku_mcgraw.pdf</a> - Size: 15.20 MB
+|   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/%D8%A7%D9%84%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9.pdf'>الدارات الكهربائية.pdf</a> - Size: 2.78 MB
+|   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/%D9%85%D9%84%D8%AD%D9%82%202%20%D8%B9%D8%A7%D9%85%202022.pdf'>ملحق 2 عام 2022.pdf</a> - Size: 1.87 MB
+|   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/%D9%85%D9%84%D8%AD%D9%82%203%20%D8%B9%D8%A7%D9%85%202022.pdf'>ملحق 3 عام 2022.pdf</a> - Size: 2.02 MB
+|   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/%D9%85%D9%84%D8%AD%D9%82%204%20%D8%B9%D8%A7%D9%85%202022.pdf'>ملحق 4 عام 2022.pdf</a> - Size: 2.34 MB
 </pre>
 
 <!-- FILE_STRUCTURE_END -->
