@@ -5,12 +5,15 @@
 
 # 📚 E-Book Library Summary
 
-- **Total Books**: 112
-- **Total Folders**: 24
+- **Total Books**: 113
+- **Total Folders**: 26
 - **Book List**: The following is the directory structure of available books. You can click on each book to download it directly from GitHub.
     
 
-<pre>📂 AI
+<pre>📂 .github
+|   📂 workflows
+|       ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/update-readme.yml'>update-readme.yml</a> - Size: 0.00 MB
+📂 AI
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/2017_Book_IntroductionToArtificialIntell.pdf'>2017_Book_IntroductionToArtificialIntell.pdf</a> - Size: 7.55 MB
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/%40datascienceM%20Simply%20Artificial%20Intelligence.pdf'>@datascienceM Simply Artificial Intelligence.pdf</a> - Size: 11.86 MB
 |   ├── <a href='https%3A//github.com/yourusername/yourrepo/raw/main/Artificial_Intelligence_A_Modern_Approach_4th_Edition_Peter_Norvig.pdf'>Artificial_Intelligence_A_Modern_Approach_4th_Edition_Peter_Norvig.pdf</a> - Size: 21.14 MB
