@@ -5,18 +5,19 @@
 
 # 📚 E-Book Library Summary
 
-- **Total Books**: 527
+- **Total Books**: 531
 - **Total Folders**: 87
-- **Total Library Size**: 5.11 GB
+- **Total Library Size**: 5.19 GB
 - **Book List**: The following is the directory structure of available books. You can click on each book to download it directly from GitHub.
     
 
-<pre><details><summary>📂 AI (11 files, 95.69 MB)</summary>
+<pre><details><summary>📂 AI (12 files, 127.11 MB)</summary>
     ├── 📄 <a href='AI/2017_Book_IntroductionToArtificialIntell.pdf'>2017_Book_IntroductionToArtificialIntell.pdf</a> - Size: 7.55 MB
     ├── 📄 <a href='AI/%40datascienceM%20Simply%20Artificial%20Intelligence.pdf'>@datascienceM Simply Artificial Intelligence.pdf</a> - Size: 11.86 MB
     ├── 📄 <a href='AI/Artificial_Intelligence_A_Modern_Approach_4th_Edition_Peter_Norvig.pdf'>Artificial_Intelligence_A_Modern_Approach_4th_Edition_Peter_Norvig.pdf</a> - Size: 21.14 MB
     ├── 📄 <a href='AI/GenAI-Book-Arabic-Hend-Alkhalifa.pdf'>GenAI-Book-Arabic-Hend-Alkhalifa.pdf</a> - Size: 2.98 MB
     ├── 📄 <a href='AI/Hadelin_de_Ponteves_AI_Crash_Course_A_Fun_and_Hands_On_Introduction.pdf'>Hadelin_de_Ponteves_AI_Crash_Course_A_Fun_and_Hands_On_Introduction.pdf</a> - Size: 9.44 MB
+    ├── 📄 <a href='AI/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_3ed_edition_1.pdf'>Hands_On_Machine_Learning_with_Scikit_Learn_Keras_3ed_edition_1.pdf</a> - Size: 31.42 MB
     ├── 📄 <a href='AI/artificial_intelligence-a_guide_to_intelligent_systems-1.pdf'>artificial_intelligence-a_guide_to_intelligent_systems-1.pdf</a> - Size: 10.73 MB
     ├── 📄 <a href='AI/%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A5%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A%20%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84.pdf'>الذكاء الإصطناعي للأطفال.pdf</a> - Size: 8.71 MB
     ├── 📄 <a href='AI/%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A%20%D9%83%D8%AA%D8%A7%D8%A8%20.pdf'>الذكاء الاصطناعي كتاب .pdf</a> - Size: 7.85 MB
@@ -612,7 +613,8 @@
     ├── 📄 <a href='React.js/full-stack-react-typescript-node.pdf'>full-stack-react-typescript-node.pdf</a> - Size: 23.75 MB
     ├── 📄 <a href='React.js/fullstack-react-30-days-of-react-2017.pdf'>fullstack-react-30-days-of-react-2017.pdf</a> - Size: 30.81 MB
 </details>
-<details><summary>📂 Relegion (10 files, 156.15 MB)</summary>
+<details><summary>📂 Relegion (11 files, 167.72 MB)</summary>
+    ├── 📄 <a href='Relegion/Noor-Book.com%20%20%D8%A7%D9%84%D8%AF%D8%A7%D8%A1%20%D9%88%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D8%A1.pdf'>Noor-Book.com  الداء والدواء.pdf</a> - Size: 11.57 MB
     ├── 📄 <a href='Relegion/%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85%20%D9%88%20%D9%85%D8%B4%D9%83%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8.pdf'>الاسلام و مشكلات الشباب.pdf</a> - Size: 0.38 MB
     ├── 📄 <a href='Relegion/%D8%A7%D9%84%D8%A8%D8%B1%D9%87%D8%A7%D9%86%20%D8%A7%D9%84%D9%85%D8%A4%D9%8A%D8%AF.pdf'>البرهان المؤيد.pdf</a> - Size: 0.62 MB
     ├── 📄 <a href='Relegion/%D8%A7%D9%84%D9%88%D8%AC%D9%8A%D8%B2%20%D9%81%D9%8A%20%D8%A7%D8%B5%D9%88%D9%84%20%D8%A7%D9%84%D9%81%D9%82%D9%87.pdf'>الوجيز في اصول الفقه.pdf</a> - Size: 4.06 MB
@@ -665,7 +667,9 @@
     ├── 📄 <a href='RoadMaps/frontend.pdf'>frontend.pdf</a> - Size: 0.13 MB
     ├── 📄 <a href='RoadMaps/ux-design.pdf'>ux-design.pdf</a> - Size: 0.08 MB
 </details>
-<details><summary>📂 Software Engineering (5 files, 49.58 MB)</summary>
+<details><summary>📂 Software Engineering (7 files, 93.85 MB)</summary>
+    ├── 📄 <a href='Software%20Engineering/Dive%20Into%20Design%20Patterns.pdf'>Dive Into Design Patterns.pdf</a> - Size: 32.26 MB
+    ├── 📄 <a href='Software%20Engineering/Dive%20Into%20Refactoring.pdf'>Dive Into Refactoring.pdf</a> - Size: 12.01 MB
     ├── 📄 <a href='Software%20Engineering/RPL_7th_ed_software_engineering_a_practitioners_approach_by_roger.pdf'>RPL_7th_ed_software_engineering_a_practitioners_approach_by_roger.pdf</a> - Size: 20.05 MB
     ├── 📄 <a href='Software%20Engineering/Software%20Engineering%2C%2010th%20Edition%20by%20Ian%20Sommerville.pdf'>Software Engineering, 10th Edition by Ian Sommerville.pdf</a> - Size: 11.44 MB
     ├── 📄 <a href='Software%20Engineering/UML%202%20%26%20the%20Unified%20Process%20Pra%20-%20Jim%20Arlow.pdf'>UML 2 & the Unified Process Pra - Jim Arlow.pdf</a> - Size: 9.43 MB
